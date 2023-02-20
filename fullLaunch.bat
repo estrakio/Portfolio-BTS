@@ -1,0 +1,1 @@
+docker-compose -p porte_folio -f docker-compose/docker-compose.yml up
