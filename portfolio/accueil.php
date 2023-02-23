@@ -3,7 +3,7 @@
   <!-- A propos de moi Les bases-->
   <section>
     <div class="row bg-primary">
-      <div class="col-7 bg-warning" style="border-radius: 30px;">
+      <div class="col-7 bg-warning" style="border-radius: 30px">
         <div class="row text-center">
           <!-- La photo -->
           <div class="col-5">
