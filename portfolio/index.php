@@ -21,21 +21,13 @@ date_default_timezone_set('UTC');
 
     <!-- DIV = Ce que je veux dépendant de ce que je met dedans  -->
     <div id="header" class="row ">
-        <div class="col-5">
-            zz
-        </div>    
-
-        <div class="col-2">
-            zz
-        </div>
-
-        <div class="col-5">
-        <?php    
+        <?php
         include("menu.php");
         ?>
-        </div>
     </div>
-
+    <br>
+    <br>
+    <br>
     <div id="content" class="container">
         <?php
 
