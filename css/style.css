@@ -2,6 +2,22 @@
     background-color: #1d1e29;
 }
 
+.fond_menu {
+    background-color: #353747;
+}
+
+.fond_sous_menu {
+    background-color: #45485e;
+}
+.coin_rond{
+    border-radius: 120px;
+    color: white;
+}
+
+.coin{
+    border-radius: 80px;
+}
+
 .navbar_color{
     background-color: #f75b00;
 }
@@ -12,4 +28,16 @@
 
 .color_text_orange{
     color: #f75b00;
+}
+
+.text_couleur_bleu{
+    color: #BDD0E5;
+
+}
+
+.surligne_lang{
+    --bs-accordion-active-bg: #1d1e29; 
+    --bs-accordion-active-color: #f75b00;
+    color: #f75b00;
+
 }

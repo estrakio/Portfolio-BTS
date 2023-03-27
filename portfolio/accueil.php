@@ -1,9 +1,11 @@
 <!-- Affichage du message de bienvenue ainsi que d'une image-->
-<div class="row">
+<div class="row text_couleur_bleu">
   <!-- A propos de moi Les bases-->
   <section>
-    <div class="row bg-primary">
-      <div class="col-7 bg-warning" style="border-radius: 30px">
+    <div class="row ">
+      <br>
+      <br>
+      <div class="col-12" style="border-radius: 30px">
         <div class="row text-center">
           <!-- La photo -->
           <div class="col-5">
@@ -16,10 +18,8 @@
           </div>
         </div>
         <br>
-        <h2>BTS SIO option SLAM</h2>
-
-      </div>
-      <div class="col-5">
+        <br>
+        <h3 class="text-center">BTS SIO option SLAM</h3>
 
       </div>
     </div>
@@ -27,7 +27,13 @@
 
   <!-- A propos de moi le texte -->
   <section>
+    <br>
+    <h2 class="color_text_orange">Langages : </h2>
+    <br>
 
+    <?php
+    include("langage.php");
+    ?>
   </section>
 
   <!-- Le BTS SIO -->
