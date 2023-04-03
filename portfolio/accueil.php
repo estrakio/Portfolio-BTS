@@ -28,7 +28,9 @@
   <!-- A propos de moi le texte -->
   <section>
     <br>
-    <h2 class="color_text_orange">Langages : </h2>
+    <br>
+    <br>
+    <h2 class="color_text_orange">Langages appris durant la formation : </h2>
     <br>
 
     <?php

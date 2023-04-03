@@ -1,6 +1,6 @@
 <nav class="navbar navbar_color border-radius:30px fixed-top">
   <div class="container-fluid">
-    <a class="navbar-brand color_text_nav" href="#">Offcanvas navbar</a>
+    <a class="navbar-brand color_text_nav" href="#">Portfolio Walter Karl</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
