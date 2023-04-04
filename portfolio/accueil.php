@@ -12,14 +12,14 @@
             je suis la photo
           </div>
           <div class="col-7">
-            <h1> Walter Karl</h1>
-            <h2>25 juillet 1996</h2>
-            <h2>Technicien Développeur</h2>
+            <h2> Walter Karl</h2>
+            <h3>25 juillet 1996</h3>
+            <h3>Technicien Développeur</h3>
           </div>
         </div>
         <br>
         <br>
-        <h3 class="text-center">BTS SIO option SLAM</h3>
+        <h4 class="text-center">BTS SIO option SLAM</h4>
 
       </div>
     </div>
@@ -32,11 +32,17 @@
       A propos de moi :
     </h2>
       <div class="row padding_content">
-        Je suis actuellement en reconversion professionnel depuis maintenant deux ans et en formation pour l'obtention d'un BTS SIO.
+        J'ai commencé mon parcours professionnel dans la restauration que j'ai poursuivit pendant 10 ans jusqu'a devenir chef de cuisine.
+        <br>
+        J'ai entamé en 2018 mon projet de reconversion dans l'informatique par un stage dans la société Jus de Fruits d'Alsace à Sarre-Union
+        ou j'ai pu découvrir l'aspect infrastructure ainsi que l'aspect développement des métiers de l'informatique.
+        <br>
+        Suite à ce stage j'ai commencé un an plus tard mon BTS SIO dans cette même société et en paralèle à l'école ORT à Strasbourg.
+
 
       </div>
-    <h2 class="color_text_orange padding_title">
-      Langages appris durant la formation :
+    <h2 class="color_text_orange padding_title text-center">
+      Langages appris durant ma formation
     </h2>
     <br>
 
