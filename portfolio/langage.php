@@ -93,7 +93,7 @@
       <br>
         <br>
         <div class="color_text_orange_clair">
-          j'ai exclusivement utilisé ce langage à l'école.
+          j'ai exclusivement utilisé ce langage en centre de formation.
           <br>
           je l'ai utilisé pour créer les applications mobiles des projets <B>"Vroooom"</B> et <B>"Le miel et les abeilles"</B>. 
         </div>
