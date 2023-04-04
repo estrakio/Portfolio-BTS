@@ -9,38 +9,73 @@
 .fond_sous_menu {
     background-color: #45485e;
 }
-.coin_rond{
+
+.coin_rond {
     border-radius: 120px;
     color: white;
 }
 
-.coin{
+.coin {
     border-radius: 80px;
 }
 
-.navbar_color{
-    background-color: #f75b00;
+.body_css {
+    padding-top: 40px;
 }
 
-.color_text_nav{
+.navbar_color {
+    background-color: #f8640e;
+}
+
+.footer_color {
+    background-color: #c04600;
+}
+
+.color_text_nav {
     color: #1d1e29;
 }
 
-.color_text_orange{
+.color_text_orange {
     color: #f75b00;
 }
-.color_text_orange_clair{
+
+.color_text_orange_clair {
     color: #ec7a38;
 }
 
-.text_couleur_bleu{
+.text_couleur_bleu {
     color: #BDD0E5;
 
 }
 
-.surligne_lang{
-    --bs-accordion-active-bg: #1d1e29; 
+.surligne_lang {
+    --bs-accordion-active-bg: #1d1e29;
     --bs-accordion-active-color: #f75b00;
     color: #f75b00;
 
+}
+
+.padding_title {
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.padding_content {
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+/* Style de la barre de défilement en mode sombre */
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #333;
+    /* Couleur de fond en mode sombre */
+}
+
+/* Style du curseur de la barre de défilement en mode sombre */
+::-webkit-scrollbar-thumb {
+    background-color: #555;
+    /* Couleur du curseur en mode sombre */
 }

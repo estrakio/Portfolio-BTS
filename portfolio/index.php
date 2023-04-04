@@ -17,11 +17,11 @@ date_default_timezone_set('UTC');
     <link rel="stylesheet" type="text/css" href="../css/style.css">
 </head>
 
-<body class="fond ">
+<body class=" container fond ">
 
 
     <!-- DIV = Ce que je veux dépendant de ce que je met dedans  -->
-    <div id="header" class="row ">
+    <div id="header" class="row">
         <?php
         include("menu.php");
         ?>
@@ -29,7 +29,8 @@ date_default_timezone_set('UTC');
     <br>
     <br>
     <br>
-    <div id="content" class="container">
+    <div id="header" class="row">
+    <div id="content" class="container body_css">
         <?php
 
         if (isset($_GET["content"])) {
@@ -42,8 +43,7 @@ date_default_timezone_set('UTC');
 
     </div>
 
-    <div id="footer" class="row">
-
 </body>
+
 
 </html>

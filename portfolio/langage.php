@@ -111,10 +111,17 @@
     </h2>
     <div id="flush-collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
       <br>
-      <div class="accordion-body fond_menu coin_rond">Placeholder content for this accordion, which is intended to
-        demonstrate the
-        <code>.accordion-flush</code> class. This is the second item's accordion body. Let's imagine this being
-        filled with some actual content.
+      <div class="accordion-body fond_menu coin_rond text-center">
+        Le langage C# est un langage de programmation orienté objet, développé par Microsoft.
+        <br>
+        Il est largement utilisé pour le développement d'applications Windows, de jeux vidéo et d'applications mobiles
+        <br>
+        <br>
+        <div class="color_text_orange_clair">
+          j'ai exclusivement utilisé ce langage en centre de formation.
+          <br>
+          je l'ai utilisé pour créer divers petit projets comme un démineur ou un sudoku. 
+        </div>
       </div>
       <br>
     </div>
@@ -124,15 +131,22 @@
       <button class="accordion-button collapsed fond color_text_orange surligne_lang" type="button"
         data-bs-toggle="collapse" data-bs-target="#flush-collapseSept" aria-expanded="false"
         aria-controls="flush-collapseSept">
-        📃 Python / Django :
+        📃 PostgreSQL :
       </button>
     </h2>
     <div id="flush-collapseSept" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
       <br>
-      <div class="accordion-body fond_menu coin_rond">Placeholder content for this accordion, which is intended to
-        demonstrate the
-        <code>.accordion-flush</code> class. This is the second item's accordion body. Let's imagine this being
-        filled with some actual content.
+      <div class="accordion-body fond_menu coin_rond text-center">
+        PostgreSQL est un système de gestion de base de données relationnelle open source, reconnu pour sa fiabilité, 
+        <br>
+        sa robustesse et sa capacité à gérer de grandes quantités de données.
+        <br>
+        <br>
+        <div class="color_text_orange_clair">
+          C'est le système de gestion de base de données que j'ai le plus utilisé durant mon apprentissage.
+          <br>
+          Il est présent sur tous les projets que j'ai réalisé. 
+        </div>
       </div>
       <br>
     </div>
@@ -147,12 +161,17 @@
     </h2>
     <br>
     <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-      <div class="accordion-body fond_menu coin_rond">Placeholder content for this accordion, which is intended to
-        demonstrate the
-        <code>.accordion-flush</code> class. This is the third item's accordion body. Nothing more exciting
-        happening here in terms of content, but just filling up the space to make it look, at least at first glance,
-        a bit more representative of how this would look in a real-world application.
-      </div>
+      <div class="accordion-body fond_menu coin_rond text-center">
+      JavaScript est un langage de programmation de scripts utilisé principalement pour la création de sites web interactifs et dynamiques.
+      Il est interprété côté client, ce qui signifie qu'il s'exécute directement dans le navigateur web de l'utilisateur final.
+      <br>
+      <br>
+      <div class="color_text_orange_clair">
+          C'est le langage sur lequel j'ai le moins d'expèrience. Je n'ai pas encore eu le temps d'approfondir mes connaissances dessus.
+          <br>
+          Il est présent sur le projet <B>"Vroooom"</B>, <B>"Le miel et les abeilles"</B> ainsi que sur <B>"La Boutique point jaunes"</B>. 
+        </div>
+    </div>
     </div>
     <br>
   </div>

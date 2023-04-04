@@ -27,10 +27,17 @@
 
   <!-- A propos de moi le texte -->
   <section>
-    <br>
-    <br>
-    <br>
-    <h2 class="color_text_orange">Langages appris durant la formation : </h2>
+
+    <h2 class="color_text_orange padding_title">
+      A propos de moi :
+    </h2>
+      <div class="row padding_content">
+        Je suis actuellement en reconversion professionnel depuis maintenant deux ans et en formation pour l'obtention d'un BTS SIO.
+
+      </div>
+    <h2 class="color_text_orange padding_title">
+      Langages appris durant la formation :
+    </h2>
     <br>
 
     <?php
