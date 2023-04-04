@@ -15,7 +15,7 @@
             <a class="nav-link color_text_orange" aria-current="page" href="index.php?content=accueil"> 😶‍🌫️ A propos de moi</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link color_text_orange" href="#"> 🖥️ Mon BTS SIO</a>
+            <a class="nav-link color_text_orange" href="index.php?content=bts"> 🖥️ Mon BTS SIO</a>
           </li>
           <li class="nav-item">
             <a class="nav-link color_text_orange" href="#"> 🤖 Veille technologique</a>
@@ -25,7 +25,7 @@
               📁 Mes différents projets :
             </a>
             <ul class="dropdown-menu fond_sous_menu">
-              <li><a class="dropdown-item color_text_orange" href="#">Action</a></li>
+              <li><a class="dropdown-item color_text_orange" href="index.php?content=miel"> 🐝 Le miel et les abeilles</a></li>
               <li><a class="dropdown-item color_text_orange" href="#">Another action</a></li>
               <li>
                 <hr class="dropdown-divider color_text_orange">
