@@ -5,13 +5,12 @@
     <div class="row ">
       <br>
       <br>
-      <div class="col-12" style="border-radius: 30px">
+      <div class="col-12 bg-aurora" style="border-radius: 30px">
         <div class="row text-center">
           <!-- La photo -->
           <div class="col-5">
-            <img src="images/profil.png" width="300" height= "300" class ="img_rond" alt="Juste une photo de moi" />
           </div>
-          <div class="col-7">
+          <div class="col-7" style="text-align: right;" >
             <h2> Walter Karl</h2>
             <h3>25 juillet 1996</h3>
             <h3>Technicien Développeur</h3>
@@ -19,7 +18,7 @@
         </div>
         <br>
         <br>
-        <h4 class="text-center">BTS SIO option SLAM</h4>
+        <h4 class=""  style="text-align: right;">BTS SIO option SLAM</h4>
 
       </div>
     </div>
