@@ -9,6 +9,7 @@
         <div class="row text-center">
           <!-- La photo -->
           <div class="col-5">
+            <!-- <img src="images/profil.png" width="300" height="300" class="img_rond" alt="Juste une photo de moi" /> -->
           </div>
           <div class="col-7" style="text-align: right;" >
             <h2> Walter Karl</h2>
@@ -31,18 +32,37 @@
       A propos de moi :
     </h2>
     <div class="row padding_content">
-      J'ai commencé mon parcours professionnel dans la restauration que j'ai poursuivit pendant 10 ans jusqu'a devenir
-      chef de cuisine.
-      <br>
-      J'ai entamé en 2018 mon projet de reconversion dans l'informatique par un stage dans la société Jus de Fruits
-      d'Alsace à Sarre-Union
-      ou j'ai pu découvrir l'aspect infrastructure ainsi que l'aspect développement des métiers de l'informatique.
-      <br>
-      Suite à ce stage j'ai commencé un an plus tard mon BTS SIO dans cette même société et en paralèle à l'école ORT à
-      Strasbourg.
-
-
+      <p>
+        J'ai commencé mon parcours professionnel dans la restauration que j'ai poursuivit pendant 10 ans jusqu'a devenir
+        chef de cuisine.
+        <br>
+        J'ai entamé en 2018 mon projet de reconversion dans l'informatique par un stage dans la société Jus de Fruits
+        d'Alsace à Sarre-Union
+        ou j'ai pu découvrir l'aspect infrastructure ainsi que l'aspect développement des métiers de l'informatique.
+        <br>
+        Suite à ce stage j'ai commencé un an plus tard mon BTS SIO dans cette même société et en paralèle à l'école ORT
+        à
+        Strasbourg.
+      </p>
     </div>
+
+    <h2 class="color_text_orange padding_title">
+      Mon projet professionnel :
+    </h2>
+    <div class="row padding_content">
+      <p>
+        Après mon BTS SIO, je préparerai au CESI durant 1 an le 
+        <br>
+        J'ai entamé en 2018 mon projet de reconversion dans l'informatique par un stage dans la société Jus de Fruits
+        d'Alsace à Sarre-Union
+        ou j'ai pu découvrir l'aspect infrastructure ainsi que l'aspect développement des métiers de l'informatique.
+        <br>
+        Suite à ce stage j'ai commencé un an plus tard mon BTS SIO dans cette même société et en paralèle à l'école ORT
+        à
+        Strasbourg.
+      </p>
+    </div>
+
     <h2 class="color_text_orange padding_title text-center">
       Langages appris durant ma formation
     </h2>
