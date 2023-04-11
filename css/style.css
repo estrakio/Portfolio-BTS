@@ -2,6 +2,14 @@
     font-family: 'Tahoma', sans-serif;
 }
 
+.bordure_g_orange{
+    border-left: 2px solid #f75b00;
+}
+
+.bordure_t_orange{
+    border-top: 2px solid #f75b00;
+}
+
 .logo_git {
     width: 30px;
     height: 30px;
@@ -12,7 +20,7 @@
 }
 
 .fond {
-    background-color: #1d1e29;
+    background-color: #2d2f46;
 }
 
 .fond_menu {
@@ -81,7 +89,7 @@
 }
 
 .test_gradient {
-    background: linear-gradient(-70deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%), url('planets.jpg');
+    background: linear-gradient(-70deg, #e97f3d 30%, rgba(0, 0, 0, 0) 30%), url('planets.jpg');
 }
 
 /* Style de la barre de défilement en mode sombre */
@@ -99,10 +107,10 @@
 
 .bg-aurora {
     color: #ffffff;
-    background: -webkit-linear-gradient(-70deg, #45485e 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
-    background: -o-linear-gradient(-70deg, #45485e 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
-    background: -moz-linear-gradient(-70deg, #45485e 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
-    background: linear-gradient(-70deg, #45485e 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
+    background: -webkit-linear-gradient(-70deg, #e97f3d 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
+    background: -o-linear-gradient(-70deg, #e97f3d 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
+    background: -moz-linear-gradient(-70deg, #e97f3d 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
+    background: linear-gradient(-70deg, #e97f3d 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
     background-size: cover;
     background-position: 50% 21%;
     text-align: right;

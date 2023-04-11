@@ -17,6 +17,7 @@
         <a href="https://github.com/ratataque/Le_miel_et_les_abeilles" target="_blank">
           <img src="images/github.png" width="80" height="80" alt="Logo Github" />
         </a>
+        <p> Lien vers le répertoire Github</p>
       </div>
     </div>
     <!-- Partie droite de la première section -->
@@ -25,27 +26,29 @@
       <div class="row body_css ">
         <h3 class="color_text_orange_clair ">Présentation : </h3>
       </div>
-      <div class="row body_css">
+      <div class="row body_css padding_content">
         <p class="text_couleur_bleu">
           Projet Réalisé en cours de formation à l'école ORT. Le projet devait contenir deux Grande parti.
         </p>
         <div class="container">
           <div class="row">
-            <div class="col-6">
-              <p class="color_text_orange">
+            <div class="col-6 bordure_g_orange">
+              <p class="color_text_orange ">
                 <strong>SITE WEB :</strong>
               </p>
               <p class="text_couleur_bleu">
                 Création d'un site web pour une école qui propose une vente de miels pour financer un voyage scolaire.
                 <br>
-                Le site ce devait d'être simple et intuitif pour les utilisateurs car il représente la vitrine des produits mis en vente par l'école.
+                Le site ce devait d'être simple et intuitif pour les utilisateurs car il représente la vitrine des
+                produits mis en vente par l'école.
                 <br>
                 <br>
-                Il devait également comporter une partie administration pour permettre à l'école de gérer les produits vendu par les élèves et lui permetre de cloturer les ventes.
+                Il devait également comporter une partie administration pour permettre à l'école de gérer les produits
+                vendu par les élèves et lui permetre de cloturer les ventes.
 
               </p>
             </div>
-            <div class="col-6">
+            <div class="col-6 bordure_g_orange">
               <p class="color_text_orange">
                 <strong>APPLICATION MOBILE :</strong>
               </p>
@@ -59,9 +62,13 @@
       <div class="row body_css">
         <p class="color_text_orange_clair">
           <strong>Technologies utilisées :</strong>
-        <p class="text_couleur_bleu">HTML, CSS, Bootstrap, PHP, Symfony, MySQL, Git, Github, Scrum</p>
+        <p class="text_couleur_bleu">HTML, CSS, JavaScript, PHP, PostGreSql, Git, Github, Docker</p>
         </p>
       </div>
     </div>
+
+
+
+
   </div>
 </div>

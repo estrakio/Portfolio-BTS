@@ -11,7 +11,7 @@
           <div class="col-5">
             <!-- <img src="images/profil.png" width="300" height="300" class="img_rond" alt="Juste une photo de moi" /> -->
           </div>
-          <div class="col-7" style="text-align: right;" >
+          <div class="col-7" style="text-align: right;">
             <h2> Walter Karl</h2>
             <h3>25 juillet 1996</h3>
             <h3>Technicien Développeur</h3>
@@ -19,7 +19,7 @@
         </div>
         <br>
         <br>
-        <h4 class=""  style="text-align: right;">BTS SIO option SLAM</h4>
+        <h4 class="" style="text-align: right;">BTS SIO option SLAM</h4>
 
       </div>
     </div>
@@ -31,13 +31,14 @@
     <h2 class="color_text_orange padding_title">
       A propos de moi :
     </h2>
-    <div class="row padding_content">
-      <p>
+    <div class="row padding_content ">
+      <p class="bordure_g_orange">
         J'ai commencé mon parcours professionnel dans la restauration que j'ai poursuivit pendant 10 ans jusqu'a devenir
         chef de cuisine.
         <br>
         J'ai entamé en 2018 mon projet de reconversion dans l'informatique par un stage dans la société Jus de Fruits
         d'Alsace à Sarre-Union
+        <br>
         ou j'ai pu découvrir l'aspect infrastructure ainsi que l'aspect développement des métiers de l'informatique.
         <br>
         Suite à ce stage j'ai commencé un an plus tard mon BTS SIO dans cette même société et en paralèle à l'école ORT
@@ -50,8 +51,8 @@
       Mon projet professionnel :
     </h2>
     <div class="row padding_content">
-      <p>
-        Après mon BTS SIO, je préparerai au CESI durant 1 an le 
+      <p class="bordure_g_orange">
+        Après mon BTS SIO, je préparerai au CESI durant 1 an le
         <br>
         J'ai entamé en 2018 mon projet de reconversion dans l'informatique par un stage dans la société Jus de Fruits
         d'Alsace à Sarre-Union
@@ -67,10 +68,11 @@
       Langages appris durant ma formation
     </h2>
     <br>
-
-    <?php
-    include("langage.php");
-    ?>
+    <div class="bordure_t_orange">
+      <?php
+      include("langage.php");
+      ?>
+    </div>
   </section>
 
   <!-- Le BTS SIO -->
