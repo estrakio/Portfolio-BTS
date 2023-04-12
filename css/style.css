@@ -20,7 +20,7 @@
 }
 
 .fond {
-    background-color: #2d2f46;
+    background-color: #353958;
 }
 
 .fond_menu {
@@ -69,6 +69,8 @@
 
 }
 
+
+
 .surligne_lang {
     --bs-accordion-active-bg: #1d1e29;
     --bs-accordion-active-color: #f75b00;
@@ -114,4 +116,8 @@
     background-size: cover;
     background-position: 50% 21%;
     text-align: right;
+}
+
+.ombre{
+    box-shadow: 0 0 100px 0 rgba(230, 137, 31, 0.925);
 }

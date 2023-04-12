@@ -5,7 +5,7 @@
     <div class="row ">
       <br>
       <br>
-      <div class="col-12 bg-aurora" style="border-radius: 30px">
+      <div class="col-12 bg-aurora ombre" style="border-radius: 30px">
         <div class="row text-center">
           <!-- La photo -->
           <div class="col-5">
