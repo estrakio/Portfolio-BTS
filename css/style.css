@@ -3,11 +3,12 @@
 }
 
 .bordure_g_orange{
-    border-left: 2px solid #f75b00;
+    border-left: 2px solid #000A54;
 }
 
 .bordure_t_orange{
-    border-top: 2px solid #f75b00;
+    padding-top: 20px;
+    border-top: 2px solid #f8640e;
 }
 
 .logo_git {
@@ -20,20 +21,20 @@
 }
 
 .fond {
-    background-color: #353958;
+    background-color: #ffffff;
 }
 
 .fond_menu {
-    background-color: #353747;
+    background-color: #ececec;
 }
 
 .fond_sous_menu {
-    background-color: #45485e;
+    background-color: #cecece;
 }
 
 .coin_rond {
     border-radius: 120px;
-    color: white;
+    color: black;
 }
 
 .coin {
@@ -46,6 +47,7 @@
 
 .navbar_color {
     background-color: #f8640e;
+    border-bottom: #000000 1px solid;
 }
 
 .footer_color {
@@ -53,34 +55,38 @@
 }
 
 .color_text_nav {
-    color: #1d1e29;
+    color: #ffffff;
 }
 
-.color_text_orange {
-    color: #f75b00;
+.text_couleur_bleu_fonce {
+    color: #000A54;
 }
 
-.color_text_orange_clair {
+.text_couleur_bleu_fonce_clair {
     color: #ec7a38;
 }
 
 .text_couleur_bleu {
-    color: #BDD0E5;
+    color: #7faadf;
 
+}
+
+.first_letter_orange {
+    color: #ec7a38;
 }
 
 
 
 .surligne_lang {
-    --bs-accordion-active-bg: #1d1e29;
-    --bs-accordion-active-color: #f75b00;
-    color: #f75b00;
+    --bs-accordion-active-bg: #f7f7f7;
+    --bs-accordion-active-color: #000A54;
+    color: #000A54;
 
 }
 
 .padding_title {
     padding-left: 20px;
-    padding-top: 20px;
+    padding-top: 30px;
     padding-bottom: 20px;
 }
 
@@ -103,21 +109,21 @@
 
 /* Style du curseur de la barre de défilement en mode sombre */
 ::-webkit-scrollbar-thumb {
-    background-color: #555;
+    background-color: #f8640e;
     /* Couleur du curseur en mode sombre */
 }
 
 .bg-aurora {
     color: #ffffff;
-    background: -webkit-linear-gradient(-70deg, #e97f3d 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
-    background: -o-linear-gradient(-70deg, #e97f3d 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
-    background: -moz-linear-gradient(-70deg, #e97f3d 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
-    background: linear-gradient(-70deg, #e97f3d 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
+    background: -webkit-linear-gradient(-70deg, #1e1c70 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
+    background: -o-linear-gradient(-70deg, #1e1c70 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
+    background: -moz-linear-gradient(-70deg, #1e1c70 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
+    background: linear-gradient(-70deg, #1e1c70 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
     background-size: cover;
     background-position: 50% 21%;
     text-align: right;
 }
 
 .ombre{
-    box-shadow: 0 0 100px 0 rgba(230, 137, 31, 0.925);
+    box-shadow: 0 0 20px 0 #000000;
 }

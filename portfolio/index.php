@@ -17,6 +17,11 @@ date_default_timezone_set('UTC');
 
     <link rel="stylesheet" type="text/css" href="../css/style.css">
 </head>
+<style>
+    a {
+        text-decoration: none;
+    }
+</style>
 
 <body class=" container fond police">
 
@@ -31,18 +36,18 @@ date_default_timezone_set('UTC');
     <br>
     <br>
     <div id="header" class="row">
-    <div id="content" class="container body_css">
-        <?php
+        <div id="content" class="container body_css">
+            <?php
 
-        if (isset($_GET["content"])) {
+            if (isset($_GET["content"])) {
 
-            include $_GET["content"] . ".php";
-        } else {
-            include "accueil.php";
-        }
-        ?>
+                include $_GET["content"] . ".php";
+            } else {
+                include "accueil.php";
+            }
+            ?>
 
-    </div>
+        </div>
 </body>
 
 

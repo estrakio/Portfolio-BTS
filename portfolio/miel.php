@@ -1,6 +1,6 @@
 <div class="container">
   <div class="row">
-    <h2 class="col-12 text-center color_text_orange">
+    <h2 class="col-12 text-center text_couleur_bleu_fonce">
       Le miel et les abeilles
     </h2>
   </div>
@@ -24,7 +24,7 @@
     <div class="col-8 container">
       <!-- Parti contenant le titre du projet, la description et les technologies utilisées -->
       <div class="row body_css ">
-        <h3 class="color_text_orange_clair ">Présentation : </h3>
+        <h3 class="text_couleur_bleu_fonce_clair ">Présentation : </h3>
       </div>
       <div class="row body_css padding_content">
         <p class="text_couleur_bleu">
@@ -33,7 +33,7 @@
         <div class="container">
           <div class="row">
             <div class="col-6 bordure_g_orange">
-              <p class="color_text_orange ">
+              <p class="text_couleur_bleu_fonce ">
                 <strong>SITE WEB :</strong>
               </p>
               <p class="text_couleur_bleu">
@@ -49,7 +49,7 @@
               </p>
             </div>
             <div class="col-6 bordure_g_orange">
-              <p class="color_text_orange">
+              <p class="text_couleur_bleu_fonce">
                 <strong>APPLICATION MOBILE :</strong>
               </p>
               <p class="text_couleur_bleu">
@@ -60,7 +60,7 @@
         </div>
       </div>
       <div class="row body_css">
-        <p class="color_text_orange_clair">
+        <p class="text_couleur_bleu_fonce_clair">
           <strong>Technologies utilisées :</strong>
         <p class="text_couleur_bleu">HTML, CSS, JavaScript, PHP, PostGreSql, Git, Github, Docker</p>
         </p>

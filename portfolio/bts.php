@@ -1,9 +1,9 @@
 <div class="container">
-  <h2 class="text-center color_text_orange">
+  <h2 class="text-center text_couleur_bleu_fonce">
     Mon BTS SIO
   </h2>
   <div class="row">
-    <h4 class="color_text_orange padding_title">
+    <h4 class="text_couleur_bleu_fonce padding_title">
       L'école ORT à Strasbourg
     </h4>
 
