@@ -27,45 +27,79 @@
 
   <!-- A propos de moi le texte -->
   <section>
-
-    <h2 class="color_text_orange padding_title">
-      A propos de moi :
+    <h2 class="text_couleur_bleu_fonce padding_title">
+      <b class="first_letter_orange">A</b> propos de moi :
     </h2>
     <div class="row padding_content ">
-      <p class="bordure_g_orange">
-        J'ai commencé mon parcours professionnel dans la restauration que j'ai poursuivit pendant 10 ans jusqu'a devenir
-        chef de cuisine.
-        <br>
-        J'ai entamé en 2018 mon projet de reconversion dans l'informatique par un stage dans la société Jus de Fruits
-        d'Alsace à Sarre-Union
-        <br>
-        ou j'ai pu découvrir l'aspect infrastructure ainsi que l'aspect développement des métiers de l'informatique.
-        <br>
-        Suite à ce stage j'ai commencé un an plus tard mon BTS SIO dans cette même société et en paralèle à l'école ORT
-        à
-        Strasbourg.
-      </p>
+      <div class="bordure_g_orange">
+        <p>
+        Actuellement étudiant en apprentissage dans l'entreprise Jus de fruits d'alsace à Sarre-Union ainsi qu'a l'école ORT à Strasbourg.
+        Ce métier est pour moi une reconversion ainsi qu'une réel passion. J'ai avant cette formation était pendant 10 ans dans le monde de la restauration.
+        Ce métier passionnant qu'est celui de cuisinier m'a permis de développer de nombreuses compétences ainsi qu'une certaine rigueur dans mon travail.
+        Cependant, je me suis rendu compte que ce métier ne convenait pas 
+        </p>
+      </div>
     </div>
 
-    <h2 class="color_text_orange padding_title">
-      Mon projet professionnel :
+
+    <h2 class="text_couleur_bleu_fonce padding_title">
+      <b class="first_letter_orange">M</b>on parcours professionnel :
+    </h2>
+    <div class="row padding_content ">
+      <div class="bordure_g_orange">
+        <p>
+          - J'ai commencé mon parcours professionnel dans la restauration que j'ai poursuivit pendant 10 ans jusqu'a
+          devenir
+          chef de cuisine.
+        </p>
+
+        <p>
+          - En 2020 avec la crise du COVID-19, j'entame une première reflexion sur mon parcours professionnelle est
+          envisage de me reconvertir vers l'informatique
+          qui à toujours été une passion pour moi.
+          Projet qui ne commencera réelement qu'en 2021 avec un stage dans la société Jus de Fruits d'alsace à
+          Sarre-Union.
+        </p>
+
+        <p>
+          - Ce stage qui durera 1 semaine fut très instructif et me permis de me conforter dans ma reconversion.
+        </p>
+
+        <p>
+          - Fin 2021, je commence mon BTS SIO option SLAM dans la même société ainsi que dans l'école ORT à Strasbourg.
+        </p>
+
+        <p>
+          - Suite à ce diplôme, je prévois de poursuivre mes études en apprentissage avec le CESI afin d'obtenir un <a
+            class="text_couleur_bleu_fonce"
+            href="https://www.cesi.fr/formation/bachelor-concepteur-trice-developpeur-se-dapplications-en-alternance-2417421/"
+            target="_blank">Bachelor Concepteur Développeur d'Applications</a>.
+        </p>
+      </div>
+    </div>
+
+    <h2 class="text_couleur_bleu_fonce padding_title">
+      <b class="first_letter_orange">M</b>on projet professionnel :
     </h2>
     <div class="row padding_content">
-      <p class="bordure_g_orange">
-        Après mon BTS SIO, je préparerai au CESI durant 1 an le
-        <br>
-        J'ai entamé en 2018 mon projet de reconversion dans l'informatique par un stage dans la société Jus de Fruits
-        d'Alsace à Sarre-Union
-        ou j'ai pu découvrir l'aspect infrastructure ainsi que l'aspect développement des métiers de l'informatique.
-        <br>
-        Suite à ce stage j'ai commencé un an plus tard mon BTS SIO dans cette même société et en paralèle à l'école ORT
-        à
-        Strasbourg.
-      </p>
+      <div class="bordure_g_orange">
+        <p>
+          Partant du postulat que l'informatique est un domaine qui évolue très rapidement et qui ce diversifie
+          énormement.
+          Je souhaite continuer mes études aussi loin que possible afin de pouvoir.
+          En souhaitant aller dans ce sens, et comme stipulé plus haut, je souhaite continuer mes études en
+          apprentissage au maximum de ce qu'il sera possible.
+          C'est pour cette raison qu'après mon Bachelor au CESI, j'ai d'ores et déjà contacter l'école Epitech à
+          Strasbourg afin de pouvoir y continuer mon apprentissage avec pour but l'obtention
+          de leurse diplôme<a class="text_couleur_bleu_fonce"
+            href="https://www.epitech.eu/fr/formations/msc-pro-epitech-technology/" target="_blank"> MSC PRO en
+            alternance</a>.
+        </p>
+      </div>
     </div>
 
-    <h2 class="color_text_orange padding_title text-center">
-      Langages appris durant ma formation
+    <h2 class="text_couleur_bleu_fonce padding_title text-center">
+      <b class="first_letter_orange">L</b>angages appris durant ma formation
     </h2>
     <br>
     <div class="bordure_t_orange">
