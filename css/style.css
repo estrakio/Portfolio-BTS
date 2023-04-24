@@ -6,6 +6,7 @@
     border-left: 2px solid #000A54;
 }
 
+
 .bordure_t_orange{
     padding-top: 20px;
     border-top: 2px solid #f8640e;
@@ -67,7 +68,7 @@
 }
 
 .text_couleur_bleu {
-    color: #7faadf;
+    color: #256fc9;
 
 }
 
@@ -87,7 +88,7 @@
 .padding_title {
     padding-left: 20px;
     padding-top: 30px;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 .padding_content {
@@ -109,7 +110,7 @@
 
 /* Style du curseur de la barre de défilement en mode sombre */
 ::-webkit-scrollbar-thumb {
-    background-color: #f8640e;
+    background-color: #8a8888;
     /* Couleur du curseur en mode sombre */
 }
 
@@ -126,4 +127,13 @@
 
 .ombre{
     box-shadow: 0 0 20px 0 #000000;
+}
+
+.test_img{
+    /* object-fit: cover; */
+    width: 70vh;
+    height: auto;
+    border: 2px solid #f8640e;
+
+    
 }

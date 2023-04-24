@@ -1,6 +1,6 @@
 <nav class="navbar navbar_color border-radius:30px fixed-top">
   <div class="container-fluid">
-    <a class="navbar-brand color_text_nav" href="#"><b class="text_couleur_bleu_fonce">P</b>ortfolio Walter Karl</a>
+    <a class="navbar-brand color_text_nav" href="index.php?content=accueil"><b class="text_couleur_bleu_fonce">P</b>ortfolio Walter Karl</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -15,7 +15,7 @@
             <a class="nav-link text_couleur_bleu_fonce" aria-current="page" href="index.php?content=accueil"> 😊 <c class="first_letter_orange">A</c> propos de moi</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text_couleur_bleu_fonce" href="index.php?content=bts"> 🖥️ <c class="first_letter_orange">M</c>on BTS SIO</a>
+            <a class="nav-link text_couleur_bleu_fonce" href="index.php?content=bts"> 🖥️ <c class="first_letter_orange">M</c>on BTS chez JFA</a>
           </li>
           <li class="nav-item">
             <a class="nav-link text_couleur_bleu_fonce" href="#"> 🤖 <c class="first_letter_orange">V</c>eille technologique</a>
