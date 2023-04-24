@@ -10,14 +10,13 @@
     <div class="col-4 container">
       <!-- Parti contenant Une grande image qui présente le projet et le logo vers le lien github en dessous -->
       <div class="row body_css">
-        <img src="images/catastorphe.png" width="300" height="300" alt="Juste une photo de moi" />
+        <img src="images/le_miel_et_les_abeilles.png" class="img_projet" alt="Juste une photo de moi" />
       </div>
       <div class="row text_couleur_bleu body_css text-center">
         <!-- Afficher sur la même ligne le logo github et l'url -->
         <a href="https://github.com/ratataque/Le_miel_et_les_abeilles" target="_blank">
-          <img src="images/github.png" width="80" height="80" alt="Logo Github" />
+          <img src="images/github.png" width="200" height="auto" alt="Logo Github" />
         </a>
-        <p> Lien vers le répertoire Github</p>
       </div>
     </div>
     <!-- Partie droite de la première section -->
@@ -41,11 +40,10 @@
                 <br>
                 Le site ce devait d'être simple et intuitif pour les utilisateurs car il représente la vitrine des
                 produits mis en vente par l'école.
-                <br>
-                <br>
+              </p>
+              <p>
                 Il devait également comporter une partie administration pour permettre à l'école de gérer les produits
                 vendu par les élèves et lui permetre de cloturer les ventes.
-
               </p>
             </div>
             <div class="col-6 bordure_g_orange">
@@ -53,8 +51,15 @@
                 <strong>APPLICATION MOBILE :</strong>
               </p>
               <p class="text_couleur_bleu">
-                Création d'un site web pour une entreprise de vente de miel.
+                La création d'une application mobile sous Java qui devait permetre aux élèves de l'école de passer des commandes.
               </p>
+              <p>
+                L'application devait permetre aux élèves de se connecter avec leur identifiant et mot de passe pour pouvoir passer des commandes.
+              </p>
+              <p>
+                L'application devait également permetre aux élèves de voir l'historique de leur commande. et de les modifié si besoin.
+              </p>
+
             </div>
           </div>
         </div>
@@ -66,9 +71,7 @@
         </p>
       </div>
     </div>
-
-
-
-
   </div>
+
+
 </div>

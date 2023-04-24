@@ -1,6 +1,6 @@
 <div class="container">
 
-  <h2 class="text-center text_couleur_bleu_fonce">
+  <h2 class="text-center text_couleur_bleu_fonce titre_bts">
     Mon <b class="first_letter_orange">BTS</b> SIO en Entreprise
   </h2>
 

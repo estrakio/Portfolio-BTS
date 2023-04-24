@@ -68,7 +68,7 @@
 }
 
 .text_couleur_bleu {
-    color: #256fc9;
+    color: #001e3b;
 
 }
 
@@ -126,14 +126,26 @@
 }
 
 .ombre{
-    box-shadow: 0 0 20px 0 #000000;
+    box-shadow: 0 0 20px 0 #000000e0;
 }
 
 .test_img{
     /* object-fit: cover; */
     width: 70vh;
     height: auto;
-    border: 2px solid #f8640e;
+    /* border: 12px solid #dadada; */
+    border-radius: 20px;
+}
 
-    
+.img_projet{
+        /* object-fit: cover; */
+        width: 50vh;
+        height: auto;
+        /* border: 12px solid #dadada; */
+        border-radius: 30px;
+}
+
+.titre_bts{
+    background-color:#d3d3d3;
+    border-radius: 20px;
 }
