@@ -22,10 +22,10 @@
   height: 29,5vh;
   margin : 0;
   /* padding-top: 30px; */
-  border-top: 1px solid lightblue;
+  /* border-top: 1px solid #000A54; */
   overflow-x: hidden;
   text-align: center;
-  border-bottom: 1px solid lightblue;
+  border-bottom: 1px solid #000A54;
 }
 
 .section img{
@@ -39,5 +39,12 @@
 }
 
 .ombre_photo{
-  box-shadow: 0 0 20px 0 rgba(255, 255, 255, 0.925);
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  border-right: 1px solid #000A54;
+  border-left: 1px solid #000A54;
+
+}
+
+.ombre_test{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }

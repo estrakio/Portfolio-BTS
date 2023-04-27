@@ -3,7 +3,7 @@
 <div class="container">
   <div class="row">
     <h2 class="col-12 text-center text_couleur_bleu_fonce titre_projet">
-      Le miel et les abeilles
+      Site Points jaunes
     </h2>
   </div>
 
@@ -12,12 +12,12 @@
     <div class="col-4 container">
       <!-- Parti contenant Une grande image qui présente le projet et le logo vers le lien github en dessous -->
       <div class="row body_css">
-        <img src="images/le_miel_et_les_abeilles.png" class="img_projet" alt="Juste une photo de moi" />
+        <img src="images/logo_jfa.png" class="img_jfa" alt="Juste une photo de moi" />
       </div>
       <div class="row text_couleur_bleu body_css text-center">
         <!-- Afficher sur la même ligne le logo github et l'url -->
         <a href="https://github.com/ratataque/Le_miel_et_les_abeilles" target="_blank">
-          <img src="images/github.png" width="200" height="auto" alt="Logo Github" />
+          <img src="images/github.png" width="200px" height="auto" alt="Logo Github" />
         </a>
       </div>
     </div>
@@ -29,7 +29,7 @@
       </div>
       <div class="row body_css padding_content">
         <p class="text_couleur_bleu">
-          Projet Réalisé en cours de formation à l'école ORT. Le projet devait contenir deux Grande parti.
+          Ce projet, qui m'as était donnée en entreprise, avait pour but de remplacer l'ancien système de gestion de la boutique interne de vente de jus.
         </p>
         <div class="container">
           <div class="row">
@@ -69,10 +69,10 @@
           </div>
         </div>
       </div>
-      <div class="row body_css">
+      <div class="row body_css ">
         <p class="text_couleur_bleu_fonce_clair">
           <strong>Technologies utilisées :</strong>
-        <p class="text_couleur_bleu">HTML, CSS, JavaScript, PHP, PostGreSql, Git, Github, Docker</p>
+        <p class="text_couleur_bleu ">HTML, CSS, JavaScript, PHP, PostGreSql, Git, Github, Docker</p>
         </p>
       </div>
     </div>

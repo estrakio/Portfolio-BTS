@@ -34,9 +34,11 @@
       <div class="bordure_g_orange">
         <p>
         Actuellement étudiant en apprentissage dans l'entreprise Jus de fruits d'alsace à Sarre-Union ainsi qu'a l'école ORT à Strasbourg.
+        </p>
+        
         Ce métier est pour moi une reconversion ainsi qu'une réel passion. J'ai avant cette formation était pendant 10 ans dans le monde de la restauration.
         Ce métier passionnant qu'est celui de cuisinier m'a permis de développer de nombreuses compétences ainsi qu'une certaine rigueur dans mon travail.
-        Cependant, je me suis rendu compte que ce métier ne convenait pas 
+        Cependant, je me suis rendu compte que ce métier ne correspondait plus à mes attentes professionnelles et personnel et je me suis donc tourner vers ma seconde passion de toujours, l'informatique. 
         </p>
       </div>
     </div>

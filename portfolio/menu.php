@@ -20,16 +20,20 @@
           <li class="nav-item">
             <a class="nav-link text_couleur_bleu_fonce" href="#"> 🤖 <c class="first_letter_orange">V</c>eille technologique</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link text_couleur_bleu_fonce" href="#"> 📄 <c class="first_letter_orange">D</c>ocumentation</a>
+          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle text_couleur_bleu_fonce" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               📁 <c class="first_letter_orange">M</c>es différents projets :
             </a>
             <ul class="dropdown-menu fond_sous_menu">
               <li><a class="dropdown-item text_couleur_bleu_fonce" href="index.php?content=miel"> 🐝 Le miel et les abeilles</a></li>
-              <li><a class="dropdown-item text_couleur_bleu_fonce" href="#">Another action</a></li>
+              <li><a class="dropdown-item text_couleur_bleu_fonce" href="index.php?content=miel"> 🚗 Société de leasing Vroooom</a></li>
               <li>
                 <hr class="dropdown-divider text_couleur_bleu_fonce">
               </li>
+              <li><a class="dropdown-item text_couleur_bleu_fonce" href="index.php?content=points_jaune"> 🎫 La Boutique Points jaunes</a></li>
               <li><a class="dropdown-item text_couleur_bleu_fonce" href="#">Something else here</a></li>
             </ul>
           </li>
