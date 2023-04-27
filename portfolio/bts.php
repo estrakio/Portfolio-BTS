@@ -9,7 +9,7 @@
       <b class="first_letter_orange">L</b>a société Jus de Fruits d'Alsace
     </h2>
     <div class="row">
-      <div class="col-6 text_couleur_bleu bordure_g_orange  ">
+      <div class="col-6 text_couleur_bleu bordure_g_orange  has-animation animation-ltr">
         <p>Jus de Fruits d’Alsace est une entreprise basée en Alsace bossue, à Sarre Union (Bas Rhin). </p>
         <p>Il s’agit d’un spécialiste français des jus de fruits au savoir-faire de plus de 60 ans. </p>
         <p>Près de 300 collaborateurs travaillent au quotidien à la production et au conditionnement de jus de fruits et
@@ -24,7 +24,7 @@
     <div style="padding-top:30px;"> </div>
   </div>
 
-  <div class="row" style="padding-top:10px;">
+  <div class="row has-animation animation-ltr" style="padding-top:10px;">
     <!-- Créer une bannière avec une photo de l'école ORT -->
     <div class="col-6 text_couleur_bleu">
       <h3 class="text_couleur_bleu_fonce padding_title ">
@@ -71,7 +71,7 @@
       <b class="first_letter_orange">M</b>es différentes missions :
     </h2>
 
-    <div class=" text_couleur_bleu bordure_g_orange">
+    <div class=" text_couleur_bleu bordure_g_orange has-animation animation-ltr">
       <p>
         Au cours des 2 années de mon BTS, j'ai eu l'occasion d'éffectuer plusieurs sortes de missions en entreprise :
       </p>

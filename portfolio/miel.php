@@ -84,7 +84,8 @@
     <b class="first_letter_orange">Q</b>uelques images du site Web
   </h2>
   <div class="ombre_photo">
-    <section class="section ">
+
+    <section class="section has-animation animation-ltr">
       <div class="row">
         <div class="col-5 ">
           <img src="./images/miel/accueil_miel.png" alt="photo" class="img-fluid">
@@ -98,7 +99,7 @@
     </section>
 
     <!-- Sections qui contiennent une grande photo a droite et du texte a gauche -->
-    <section class="section ">
+    <section class="section has-animation animation-ltr">
       <div class="row">
         <div class="col-7 texte_droite test">
           <h4 class="text_couleur_bleu_fonce_clair" style="padding-bottom:2vh;">Menu du site</h4>
@@ -112,7 +113,7 @@
       </div>
     </section>
 
-    <section class="section ">
+    <section class="section has-animation animation-ltr">
       <div class="row">
         <div class="col-5 ">
           <img src="./images/miel/page_apiculteur.png" alt="photo" class="img-fluid">
@@ -132,7 +133,7 @@
       </div>
     </section>
 
-    <section class="section ">
+    <section class="section has-animation animation-ltr">
       <div class="row">
         <div class="col-7 texte_droite test">
           <h4 class="text_couleur_bleu_fonce_clair" style="padding-bottom:2vh;">Page de connexion</h4>
@@ -145,7 +146,7 @@
       </div>
     </section>
 
-    <section class="section ">
+    <section class="section has-animation animation-ltr">
       <div class="row">
         <div class="col-5 ">
           <img src="./images/miel/gestion.png" alt="photo" class="img-fluid">

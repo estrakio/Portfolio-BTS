@@ -31,11 +31,11 @@
       <b class="first_letter_orange">A</b> propos de moi :
     </h2>
     <div class="row padding_content ">
-      <div class="bordure_g_orange">
+      <div class="bordure_g_orange has-animation animation-ltr">
         <p>
         Actuellement étudiant en apprentissage dans l'entreprise Jus de fruits d'alsace à Sarre-Union ainsi qu'a l'école ORT à Strasbourg.
         </p>
-        
+        <p>
         Ce métier est pour moi une reconversion ainsi qu'une réel passion. J'ai avant cette formation était pendant 10 ans dans le monde de la restauration.
         Ce métier passionnant qu'est celui de cuisinier m'a permis de développer de nombreuses compétences ainsi qu'une certaine rigueur dans mon travail.
         Cependant, je me suis rendu compte que ce métier ne correspondait plus à mes attentes professionnelles et personnel et je me suis donc tourner vers ma seconde passion de toujours, l'informatique. 
@@ -48,7 +48,7 @@
       <b class="first_letter_orange">M</b>on parcours professionnel :
     </h2>
     <div class="row padding_content ">
-      <div class="bordure_g_orange has-animation animation-ltr" data-delay="10"">
+      <div id="parcours" class="bordure_g_orange has-animation animation-ltr">
         <p>
           - J'ai commencé mon parcours professionnel dans la restauration que j'ai poursuivit pendant 10 ans jusqu'a
           devenir
@@ -83,8 +83,8 @@
     <h2 class="text_couleur_bleu_fonce padding_title">
       <b class="first_letter_orange">M</b>on projet professionnel :
     </h2>
-    <div class="row padding_content">
-      <div class="bordure_g_orange">
+    <div class="row padding_content ">
+      <div class="bordure_g_orange has-animation animation-ltr">
         <p>
           Partant du postulat que l'informatique est un domaine qui évolue très rapidement et qui ce diversifie
           énormement.

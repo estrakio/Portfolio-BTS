@@ -36,7 +36,7 @@ date_default_timezone_set('UTC');
     <br>
     <br>
     <br>
-    <div id="header" class="row">
+    <div id="page" class="row">
         <div id="content" class="container body_css">
             <?php
 
