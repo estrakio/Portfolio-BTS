@@ -46,7 +46,7 @@
       <b class="first_letter_orange">M</b>on parcours professionnel :
     </h2>
     <div class="row padding_content ">
-      <div class="bordure_g_orange">
+      <div class="bordure_g_orange has-animation animation-ltr" data-delay="10"">
         <p>
           - J'ai commencé mon parcours professionnel dans la restauration que j'ai poursuivit pendant 10 ans jusqu'a
           devenir
