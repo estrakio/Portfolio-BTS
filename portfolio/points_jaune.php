@@ -29,49 +29,77 @@
       </div>
       <div class="row body_css padding_content">
         <p class="text_couleur_bleu">
-          Ce projet, qui m'as était donnée en entreprise, avait pour but de remplacer l'ancien système de gestion de la boutique interne de vente de jus.
+          Ce projet, qui m'as était donnée en entreprise, a eu pour but de remplacer l'ancien système de gestion de la
+          boutique interne de vente de jus.
+        </p>
+        <p class="text_couleur_bleu_fonce" style="padding-bottom:20px;">
+          La boutique interne de l'entreprise permet aux salarié de l'entreprise d'acheter des produits que l'entreprise
+          fabrique.
+          <br>
+          Les produits sont uniquement achetable grâce à des points que les salariés gagnent mensuellement.
         </p>
         <div class="container">
           <div class="row">
             <div class="col-6 bordure_g_orange">
               <p class="text_couleur_bleu_fonce ">
-                <strong><b class="first_letter_orange">S</b>ITE WEB :</strong>
+                <strong>L'<b class="first_letter_orange">A</b>ncien système :</strong>
               </p>
               <p class="text_couleur_bleu">
-                Création d'un site web pour une école qui propose une vente de miels pour financer un voyage scolaire.
-                <br>
-                Le site ce devait d'être simple et intuitif pour les utilisateurs car il représente la vitrine des
-                produits mis en vente par l'école.
+                La boutique de vente de jus fonctionnait avec des points physiques de deux types (bleu et jaunes).
               </p>
-              <p>
-                Il devait également comporter une partie administration pour permettre à l'école de gérer les produits
-                vendu par les élèves et lui permetre de cloturer les ventes.
+              <p class="text_couleur_bleu">
+                Chaque type de points permet d'acheter un type de produits.
+              </p>
+              <p class="text_couleur_bleu">
+                Les points était fourni manuellement a chaque employé et devait être utilisé comme monnaie lors des
+                achats dans la boutique.
+              </p>
+              <p class="text_couleur_bleu">
+                Du coté de la gestion un fichier excel contenant toute les données des produits était rempli
+                manuellement et permettait l'édition d'une facture.
               </p>
             </div>
             <div class="col-6 bordure_g_orange">
               <p class="text_couleur_bleu_fonce">
-                <strong><b class="first_letter_orange">A</b>PPLICATION MOBILE :</strong>
+                <strong>Le <b class="first_letter_orange">N</b>ouveau système :</strong>
               </p>
               <p class="text_couleur_bleu">
-                La création d'une application mobile sous Java qui devait permetre aux élèves de l'école de passer des
-                commandes.
+                Tout ce qui touche a la vente de jus à été regroupé dans une application web herbergé en interne par
+                l'entreprise.
               </p>
               <p>
-                L'application devait permetre aux élèves de se connecter avec leur identifiant et mot de passe pour
-                pouvoir passer des commandes.
+                L'application web contient deux grandes parties :
+                <br> - Le coté magasin.
+                <br> - Le coté Gestion.
               </p>
               <p>
-                L'application devait également permetre aux élèves de voir l'historique de leur commande. et de les
-                modifié si besoin.
+                Le Site à due être pensé pour être facilement maintenable et durable dans le temps. Il pourra ainsi être
+                plus façilement mis à jour.
               </p>
 
             </div>
+
           </div>
         </div>
+      </div>
+      <div class="row">
+        <h4 class="text_couleur_bleu_fonce  " >
+          <b class="first_letter_orange">P</b>résentation des deux cotés du site :
+        </h4>
+        <p class="text_couleur_bleu">
+          Comme dit plus haut, le site ce décompose en deux parties qui ne sont pas accessible par les mêmes personnes. afin d'obtenir l'accès à un coté il faut posséder les droits dans son profil utilisateur.
+        </p>
+        <p>
+          Le côté magasin contient toutes les pages en lien direct avec la boutique, un système de caisse enregistreuse, la gestion des articles et un système d'extraction de données des commandes passé.
+        </p>
+        <p>
+          Le côté gestion quand à lui à principalement été construit pour le service Ressources Humaines de l'entreprise. Il leurs permet d'incrémenter des points aux utilisateurs ainsi que de consulté leurs solde. Il contient également un outil s'occupant de la gestion des utilisateurs via un envoi de fichier CSV.
+          
       </div>
       <div class="row body_css ">
         <p class="text_couleur_bleu_fonce_clair">
           <strong>Technologies utilisées :</strong>
+        </p>
         <p class="text_couleur_bleu ">HTML, CSS, JavaScript, PHP, PostGreSql, Git, Github, Docker</p>
         </p>
       </div>
@@ -172,8 +200,8 @@
     <b class="first_letter_orange">C</b>ourte vidéo de l'application mobile
   </h2>
   <div class="text-center ">
-    <iframe class="ombre_test"width="560" height="315" src="https://www.youtube.com/embed/4SOZbq3imNw" title="YouTube video player"
-      frameborder="0"
+    <iframe class="ombre_test" width="560" height="315" src="https://www.youtube.com/embed/4SOZbq3imNw"
+      title="YouTube video player" frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen></iframe>
   </div>
