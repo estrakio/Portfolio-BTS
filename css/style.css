@@ -139,6 +139,16 @@
     border-radius: 20px;
 }
 
+.img_section {
+    position : relative;
+    /* left : 3vw; */
+    /* object-fit: cover; */
+    width: min(40vw, 50vh);
+    height: auto;
+    /* border: 12px solid #dadada; */
+    /* border-radius: 20px; */
+}
+
 .img_projet {
     /* object-fit: cover; */
     width: 50vh;
