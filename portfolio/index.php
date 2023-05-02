@@ -24,7 +24,7 @@ date_default_timezone_set('UTC');
     }
 </style>
 
-<body class=" container fond police">
+<body class=" container fond police body">
 
 
     <!-- DIV = Ce que je veux dépendant de ce que je met dedans  -->

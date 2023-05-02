@@ -72,7 +72,7 @@
       <div class="row body_css">
         <p class="text_couleur_bleu_fonce_clair">
           <strong>Technologies utilisées :</strong>
-        <p class="text_couleur_bleu">HTML, CSS, JavaScript, PHP, PostGreSql, Git, Github, Docker</p>
+        <p class="text_couleur_bleu">HTML, CSS, JavaScript, PHP, PostGreSql, Git, Github, Docker, Java</p>
         </p>
       </div>
     </div>

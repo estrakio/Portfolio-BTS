@@ -51,10 +51,10 @@ div {
   z-index: 10;
 }
 .has-animation.animate-in:before {
-  background-color: #000A54;
+  background-color: #000a54b9;
 }
 .has-animation.animate-in:after {
-  background-color: #ec7a38;
+  background-color: #ec7a38da;
   animation-delay: .5s;
 }
 .has-animation.animation-ltr.animate-in:before {

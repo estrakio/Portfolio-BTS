@@ -18,10 +18,10 @@
             <a class="nav-link text_couleur_bleu_fonce" href="index.php?content=bts"> 🖥️ <c class="first_letter_orange">M</c>on BTS chez JFA</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text_couleur_bleu_fonce" href="#"> 🤖 <c class="first_letter_orange">V</c>eille technologique</a>
+            <a class="nav-link text_couleur_bleu_fonce" href="index.php?content=veille"> 🤖 <c class="first_letter_orange">V</c>eille technologique</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text_couleur_bleu_fonce" href="#"> 📄 <c class="first_letter_orange">D</c>ocumentation</a>
+            <a class="nav-link text_couleur_bleu_fonce" href="index.php?content=documentation"> 📄 <c class="first_letter_orange">D</c>ocumentation</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle text_couleur_bleu_fonce" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
