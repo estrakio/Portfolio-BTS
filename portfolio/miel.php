@@ -166,8 +166,7 @@
 
   </div>
 
-  <div style="padding-bottom:8vh;"></div>
-  <!-- Sections qui contiennent une grande photo a gauche et du texte a droite -->
+  <!-- <div style="padding-bottom:8vh;"></div>
   <h2 class="text_couleur_bleu_fonce padding_title text-center" style="padding-bottom:8vh;">
     <b class="first_letter_orange">C</b>ourte vidéo de l'application mobile
   </h2>
@@ -176,6 +175,6 @@
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen></iframe>
-  </div>
+  </div> -->
   <div style="padding-bottom: 20vh;"></div>
 </div>

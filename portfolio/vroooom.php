@@ -45,7 +45,8 @@
                 Il sert à la création des clients, véhicule, contrat et tout ce qui touche au experts.
               </p>
               <p class="text_couleur_bleu">
-                Il permet également de consulté les expertises effectué sur les véhicule en fin de contrat envoyé depuis les applications mobiles.
+                Il permet également de consulté les expertises effectué sur les véhicule en fin de contrat envoyé depuis
+                les applications mobiles.
               </p>
             </div>
             <div class="col-6 bordure_g_orange">
@@ -53,13 +54,16 @@
                 <strong><b class="first_letter_orange">A</b>PPLICATION MOBILE :</strong>
               </p>
               <p class="text_couleur_bleu">
-                Utilisé par les experts mandaté par la société de leasing pour expertiser les véhicules en fin de contrat.
+                Utilisé par les experts mandaté par la société de leasing pour expertiser les véhicules en fin de
+                contrat.
 
               </p>
               <p>
-                L'application demande, après la connexion de l'utilisateur, la plaque d'immatriculation du véhicule a expertiser. Après vérification efectué,
+                L'application demande, après la connexion de l'utilisateur, la plaque d'immatriculation du véhicule a
+                expertiser. Après vérification efectué,
                 <br>l'application va ouvrir un menu qui regroupera les différentes expertise effectué sur le véhicule.
-                <br>l'expert devra alors créer une nouvelle expertise à chaque défaut du véhicule remplir des données et prendre une photo.
+                <br>l'expert devra alors créer une nouvelle expertise à chaque défaut du véhicule remplir des données et
+                prendre une photo.
               </p>
               <p>
                 L'application devait également permetre aux élèves de voir l'historique de leur commande. et de les
@@ -89,12 +93,12 @@
     <section class="section has-animation animation-ltr">
       <div class="row">
         <div class="col-5 ">
-          <img src="./images/miel/accueil_miel.png" alt="photo" class="img-fluid">
+          <img src="./images/vroooom/accueil.png" alt="photo" class="img-fluid">
         </div>
         <div class="col-7 texte_gauche ">
           <h4 class="text_couleur_bleu_fonce_clair" style="padding-bottom:2vh;">Page d'accueil du site</h4>
           <p class="text_couleur_bleu">C'est la porte d'entrée du site.</p>
-          <p class="text_couleur_bleu">elle contient le logo de l'école et permet d'accéder au menu.</p>
+          <p class="text_couleur_bleu">elle contient le logo de l'entreprise et permet d'accéder au menu.</p>
         </div>
       </div>
     </section>
@@ -103,13 +107,13 @@
     <section class="section has-animation animation-ltr">
       <div class="row">
         <div class="col-7 texte_droite test">
-          <h4 class="text_couleur_bleu_fonce_clair" style="padding-bottom:2vh;">Menu du site</h4>
-          <p class="text_couleur_bleu">Menu entiérement geré en javaScript.</p>
-          <p class="text_couleur_bleu">Il contient plusieurs icones qui, lorsque cliqué redirige sois vers la page
-            associé, sois vers un autre sous-menu qui contiendra tout les élements qui lui sont associées.</p>
+          <h4 class="text_couleur_bleu_fonce_clair" style="padding-bottom:2vh;">Formulaire de création de client</h4>
+          <p class="text_couleur_bleu">Le site étant la pour la gestion des données de l'entreprise et la consultation
+            des données des experts.</p>
+          <p class="text_couleur_bleu">Ce formulaire permet de créer un client dans la base de données.</p>
         </div>
         <div class="col-5">
-          <img src="./images/miel/menu_miel.png" alt="photo" class="img-fluid">
+          <img src="./images/vroooom/form_client.png" alt="photo" class="img-fluid">
         </div>
       </div>
     </section>
@@ -117,18 +121,12 @@
     <section class="section has-animation animation-ltr">
       <div class="row">
         <div class="col-5 ">
-          <img src="./images/miel/page_apiculteur.png" alt="photo" class="img-fluid">
+          <img src="./images/vroooom/form_garage.png" alt="photo" class="img-fluid">
         </div>
         <div class="col-7 texte_gauche ">
-          <h4 class="text_couleur_bleu_fonce_clair" style="padding-bottom:2vh;">Page d'un apiculteur</h4>
-          <p class="text_couleur_bleu">Exemple d'une page de présentation d'un apiculteur.</p>
+          <h4 class="text_couleur_bleu_fonce_clair" style="padding-bottom:2vh;">Formulaire de création de garage.</h4>
           <p class="text_couleur_bleu">
-            Le site étant une vitrine pour la vente de miels organisé par l'école,
-            <br>
-            Chaque apiculteur possède une page le m'étant en avant.
-          </p>
-          <p>
-            Ainsi on y retrouve sur chaque page plusieurs élements le concernant.
+            Ce formulaire permet la création des garages ou seront effectué les expertises.
           </p>
         </div>
       </div>
@@ -137,12 +135,14 @@
     <section class="section has-animation animation-ltr">
       <div class="row">
         <div class="col-7 texte_droite test">
-          <h4 class="text_couleur_bleu_fonce_clair" style="padding-bottom:2vh;">Page de connexion</h4>
-          <p class="text_couleur_bleu">Cette page du site et dédié aux utilisateurs gestionnaires de la vente.</p>
-          <p class="text_couleur_bleu">En s'y connectant il accède aux différents outils de gestion de la vente.</p>
+          <h4 class="text_couleur_bleu_fonce_clair" style="padding-bottom:2vh;">Formulaire de création de société
+            experts</h4>
+          <p class="text_couleur_bleu">
+            Ce formulaire permet la création des sociétés qui emploie les experts pour les expertises.
+          </p>
         </div>
         <div class="col-5">
-          <img src="./images/miel/connexion_gestion.png" alt="photo" class="img-fluid">
+          <img src="./images/vroooom/form_societe.png" alt="photo" class="img-fluid">
         </div>
       </div>
     </section>
@@ -150,25 +150,20 @@
     <section class="section has-animation animation-ltr">
       <div class="row">
         <div class="col-5 ">
-          <img src="./images/miel/gestion.png" alt="photo" class="img-fluid">
+          <img src="./images/vroooom/liste.png" alt="photo" class="img-fluid">
         </div>
         <div class="col-7 texte_gauche ">
-          <h4 class="text_couleur_bleu_fonce_clair" style="padding-bottom:2vh;">Page de gestion</h4>
+          <h4 class="text_couleur_bleu_fonce_clair" style="padding-bottom:2vh;">Consultation des données</h4>
           <p class="text_couleur_bleu">
-            Le coté gestion du site permet de gérer tout les aspect de la vente de miels par l'école.
-          </p>
-          <p class="text_couleur_bleu">
-            On peux y gérer les apiculteurs (création, suppression), les miels (création, suppression),
-            <br> les classes et les élèves.
+            C'est la partie la plus intéressente du site, elle permet la consultation et la modification de toutes les données de base créer par les utilisateurs.
           </p>
         </div>
       </div>
     </section>
 
   </div>
-
+<!-- 
   <div style="padding-bottom:8vh;"></div>
-  <!-- Sections qui contiennent une grande photo a gauche et du texte a droite -->
   <h2 class="text_couleur_bleu_fonce padding_title text-center" style="padding-bottom:8vh;">
     <b class="first_letter_orange">C</b>ourte vidéo de l'application mobile
   </h2>
@@ -177,6 +172,6 @@
       title="YouTube video player" frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen></iframe>
-  </div>
+  </div> -->
   <div style="padding-bottom: 20vh;"></div>
 </div>
