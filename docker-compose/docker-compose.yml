@@ -2,21 +2,6 @@ version: '3'
 
 services:
 
-  db:
-    image: postgres
-    # entrypoint: /usr/local/bin/docker-entrypoint.sh 
-    #command: sh -c '(chown -R 999:1000 /var/lib/postgresql/data &) && /usr/local/bin/docker-entrypoint.sh && tail -f /dev/null'
-    volumes:
-        - database:/var/lib/postgresql/data/
-    #user: 1000:1000
-    environment:
-        - POSTGRES_DB=portfolio
-        - POSTGRES_USER=portfolio
-        - POSTGRES_PASSWORD=bonjour
-    ports:
-      - 5432:5432
-
-
   backend:
     # tty: true
     image: backend
@@ -28,7 +13,4 @@ services:
     volumes: 
       - '..:/var/www/html'
     ports:
-      - 80:80
-
-volumes:
-    database:
+      - 81:80
