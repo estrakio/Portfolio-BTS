@@ -4,6 +4,8 @@ date_default_timezone_set('UTC');
 const INDEX_LOADED = 1;
 ?>
 <!-- <!DOCTYPE html> -->
+<!-- il faut ajouter <!DOCTYPE html>  mais si on l'ajoute
+     les animations ne fonctionnent plus -->
 <html lang="fr">
 
 <head>
@@ -25,7 +27,7 @@ const INDEX_LOADED = 1;
 </head>
 
 
-<body class=" container fond police body">
+<body class="container fond police body">
 
 
     <!-- DIV = Ce que je veux dépendant de ce que je met dedans  -->
