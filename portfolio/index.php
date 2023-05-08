@@ -3,13 +3,11 @@ session_start();
 date_default_timezone_set('UTC');
 const INDEX_LOADED = 1;
 ?>
-<!-- <!DOCTYPE html> -->
-<!-- il faut ajouter <!DOCTYPE html>  mais si on l'ajoute
-     les animations ne fonctionnent plus -->
+<!DOCTYPE html>
 <html lang="fr">
 
 <head>
-    <title> Portfolio Walter Karl </title>
+    <title>Portfolio Walter Karl</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">

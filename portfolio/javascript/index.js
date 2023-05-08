@@ -36,11 +36,13 @@ function affichage_style() {
   // if (body.scrollTop() > 50) {
   //   $('.has-animation').addClass('animate-in');
   // }
+
+
   for (const ligne of dictionnaire_element) {
     var cle = Object.keys(ligne)[0];
-    var zone_affichage = body.scrollTop() + window.innerHeight;
+    var zone_affichage = window.scrollY + window.innerHeight;
     console.log(cle);
-    console.log(body.scrollTop() + window.innerHeight);
+    console.log(window.scrollY + window.innerHeight);
     if (cle < zone_affichage) {
       $(ligne[cle]).addClass('animate-in');
     }

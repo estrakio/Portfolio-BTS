@@ -13,7 +13,7 @@
             <!-- <img src="images/profil.png" width="300" height="300" class="img_rond" alt="Juste une photo de moi" /> -->
           </div>
           <div class="col-7" style="text-align: right;">
-            <h2> Walter Karl</h2>
+            <h2>Walter Karl</h2>
             <h3>25 juillet 1996</h3>
             <h3>Technicien Développeur</h3>
           </div>
