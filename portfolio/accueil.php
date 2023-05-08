@@ -89,7 +89,7 @@
         <p>
           Partant du postulat que l'informatique est un domaine qui évolue très rapidement et qui se diversifie
           énormement,
-          je souhaite continuer mes études aussi loin que possible.
+          je souhaite continuer mes études aussi loin que possible afin d'acquérir le plus d'outils professionnel possible.
 
           C'est pour cette raison qu'après mon Bachelor au CESI, j'ai d'ores et déjà contacté l'école Epitech à
           Strasbourg afin de pouvoir y continuer mon apprentissage avec pour but l'obtention

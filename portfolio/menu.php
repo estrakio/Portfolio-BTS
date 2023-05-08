@@ -1,5 +1,5 @@
 <?php if (!defined('INDEX_LOADED') || INDEX_LOADED != 1)
-  header('Location: index.php'); ?>
+header('Location: index.php'); ?>
 <nav class="navbar navbar_color border-radius:30px fixed-top">
   <div class="container-fluid">
     <a class="navbar-brand color_text_nav" href="index.php?content=accueil"><b

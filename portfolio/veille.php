@@ -20,7 +20,7 @@
         prendre beaucoup de temps. C’est pour cela qu’il faut savoir organiser sa veille technologique pour être
         toujours au courant sans perdre trop de temps.
       </p>
-    </div>²
+    </div>
 
     <div>
       <h2 class="text_couleur_bleu_fonce padding_title">
