@@ -5,7 +5,7 @@
       <button class="accordion-button collapsed fond text_couleur_bleu_fonce surligne_lang" type="button"
         data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false"
         aria-controls="flush-collapseOne">
-        📃 <c class="first_letter_orange"> H</c>TML :
+        📃 <span class="first_letter_orange"> H</span>TML :
       </button>
     </h2>
     <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
@@ -28,7 +28,7 @@
       <button class="accordion-button collapsed fond text_couleur_bleu_fonce surligne_lang" type="button"
         data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false"
         aria-controls="flush-collapseTwo">
-        📃 <c class="first_letter_orange"> P</c>HP :
+        📃 <span class="first_letter_orange"> P</span>HP :
       </button>
     </h2>
     <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
@@ -55,7 +55,7 @@
       <button class="accordion-button collapsed fond text_couleur_bleu_fonce surligne_lang" type="button"
         data-bs-toggle="collapse" data-bs-target="#flush-collapseQuatre" aria-expanded="false"
         aria-controls="flush-collapseQuatre">
-        📃<c class="first_letter_orange">A</c>BAP :
+        📃<span class="first_letter_orange">A</span>BAP :
       </button>
     </h2>
     <div id="flush-collapseQuatre" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
@@ -82,7 +82,7 @@
       <button class="accordion-button collapsed fond text_couleur_bleu_fonce surligne_lang" type="button"
         data-bs-toggle="collapse" data-bs-target="#flush-collapseCinq" aria-expanded="false"
         aria-controls="flush-collapseCinq">
-        📃 <c class="first_letter_orange">J</c>AVA :
+        📃 <span class="first_letter_orange">J</span>AVA :
       </button>
     </h2>
     <div id="flush-collapseCinq" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
@@ -107,7 +107,7 @@
       <button class="accordion-button collapsed fond text_couleur_bleu_fonce surligne_lang" type="button"
         data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false"
         aria-controls="flush-collapseSix">
-        📃 <c class="first_letter_orange">C</c># :
+        📃 <span class="first_letter_orange">C</span># :
       </button>
     </h2>
     <div id="flush-collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
@@ -132,7 +132,7 @@
       <button class="accordion-button collapsed fond text_couleur_bleu_fonce surligne_lang" type="button"
         data-bs-toggle="collapse" data-bs-target="#flush-collapseSept" aria-expanded="false"
         aria-controls="flush-collapseSept">
-        📃 <c class="first_letter_orange">P</c>ostgreSQL :
+        📃 <span class="first_letter_orange">P</span>ostgreSQL :
       </button>
     </h2>
     <div id="flush-collapseSept" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
@@ -157,7 +157,7 @@
       <button class="accordion-button collapsed fond text_couleur_bleu_fonce surligne_lang" type="button"
         data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false"
         aria-controls="flush-collapseThree">
-        📃 <c class="first_letter_orange">J</c>ava Script :
+        📃 <span class="first_letter_orange">J</span>ava Script :
       </button>
     </h2>
     <br>

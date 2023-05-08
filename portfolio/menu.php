@@ -13,20 +13,20 @@
       <div class="offcanvas-body">
         <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
           <li class="nav-item">
-            <a class="nav-link text_couleur_bleu_fonce" aria-current="page" href="index.php?content=accueil"> 😊 <c class="first_letter_orange">A</c> propos de moi</a>
+            <a class="nav-link text_couleur_bleu_fonce" aria-current="page" href="index.php?content=accueil"> 😊 <span class="first_letter_orange">A</span> propos de moi</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text_couleur_bleu_fonce" href="index.php?content=bts"> 🖥️ <c class="first_letter_orange">M</c>on BTS chez JFA</a>
+            <a class="nav-link text_couleur_bleu_fonce" href="index.php?content=bts"> 🖥️ <span class="first_letter_orange">M</span>on BTS chez JFA</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text_couleur_bleu_fonce" href="index.php?content=veille"> 🤖 <c class="first_letter_orange">V</c>eille technologique</a>
+            <a class="nav-link text_couleur_bleu_fonce" href="index.php?content=veille"> 🤖 <span class="first_letter_orange">V</span>eille technologique</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text_couleur_bleu_fonce" href="index.php?content=documentation"> 📄 <c class="first_letter_orange">D</c>ocumentation</a>
+            <a class="nav-link text_couleur_bleu_fonce" href="index.php?content=documentation"> 📄 <span class="first_letter_orange">D</span>ocumentation</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle text_couleur_bleu_fonce" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              📁 <c class="first_letter_orange">M</c>es différents projets :
+              📁 <span class="first_letter_orange">M</span>es différents projets :
             </a>
             <ul class="dropdown-menu fond_sous_menu">
               <li><a class="dropdown-item text_couleur_bleu_fonce" href="index.php?content=miel"> 🐝 Le miel et les abeilles</a></li>
