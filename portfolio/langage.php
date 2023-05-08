@@ -157,7 +157,7 @@
       <button class="accordion-button collapsed fond text_couleur_bleu_fonce surligne_lang" type="button"
         data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false"
         aria-controls="flush-collapseThree">
-        📃 <span class="first_letter_orange">J</span>ava Script :
+        📃 <span class="first_letter_orange">J</span>avaScript :
       </button>
     </h2>
     <br>

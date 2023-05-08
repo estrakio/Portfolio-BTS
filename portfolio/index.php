@@ -3,8 +3,8 @@ session_start();
 date_default_timezone_set('UTC');
 const INDEX_LOADED = 1;
 ?>
-
-<html>
+<!-- <!DOCTYPE html> -->
+<html lang="fr">
 
 <head>
     <title> Portfolio Walter Karl </title>
@@ -13,16 +13,17 @@ const INDEX_LOADED = 1;
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://getbootstrap.com/docs/5.2/assets/css/docs.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
     <link rel="stylesheet" type="text/css" href="../css/style.css">
     <link rel="stylesheet" type="text/css" href="../css/test.css">
     <script src="./javascript/index.js"></script>
+    <style>
+        a {
+            text-decoration: none;
+        }
+    </style>
 </head>
-<style>
-    a {
-        text-decoration: none;
-    }
-</style>
+
 
 <body class=" container fond police body">
 
@@ -30,7 +31,7 @@ const INDEX_LOADED = 1;
     <!-- DIV = Ce que je veux dépendant de ce que je met dedans  -->
     <div id="header" class="row">
         <?php
-        include("menu.php");
+        require("menu.php");
         ?>
     </div>
     <br>
@@ -40,15 +41,23 @@ const INDEX_LOADED = 1;
         <div id="content" class="container body_css">
             <?php
 
-            if (isset($_GET["content"])) {
+            $file ='accueil.php';
 
-                include $_GET["content"] . ".php";
-            } else {
-                include "accueil.php";
+            if(isset($_GET['content'])) {
+                $content  = htmlspecialchars($_GET['content']);
+                $file = $content . '.php';
             }
+
+            if(!file_exists($file))
+                $file ='accueil.php';
+
+
+            require $file;
+
             ?>
 
         </div>
+    </div>
 </body>
 
 

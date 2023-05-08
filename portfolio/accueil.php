@@ -29,7 +29,7 @@
   <!-- A propos de moi le texte -->
   <section>
     <h2 class="text_couleur_bleu_fonce padding_title">
-      <b class="first_letter_orange">A</b> propos de moi :
+      <b class="first_letter_orange">À</b> propos de moi :
     </h2>
     <div class="row padding_content ">
       <div class="bordure_g_orange has-animation animation-ltr">
