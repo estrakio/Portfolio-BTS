@@ -14,7 +14,7 @@
   <div class="row padding_content ">
     <div class="bordure_g_orange has-animation animation-ltr">
       <p>
-        Vous trouverez sur cette page plusieurs documents téléchargeable en lien avec mon parcours scolaire et
+        Vous trouverez sur cette page plusieurs documents téléchargeables en lien avec mon parcours scolaire et
         professionnel.
         <br>
         Cliquez sur les images correspondantes pour télécharger les documents.
@@ -25,13 +25,13 @@
   <!-- CV -->
   <section>
     <h2 class="text_couleur_bleu_fonce padding_title">
-      <b class="first_letter_orange">C</b>uriculum Vitae :
+      <b class="first_letter_orange">C</b>uriculum Vitæ :
     </h2>
     <div class="row padding_content ">
       <div class="col-6">
         <div class="bordure_g_orange has-animation animation-ltr" style="padding-left:10px;">
           <p>
-            Curiculum vitae mis à jour en mars 2023.
+            Curiculum vitæ mis à jour en mars 2023.
           </p>
         </div>
       </div>
@@ -55,13 +55,13 @@
         <div class="bordure_g_orange has-animation animation-ltr" style="padding-left:10px;">
           <p>
             Ce livret d'accueil informatique que j'ai rédigé pour la société Jus de Fruits d'Alsace est donné a tous les
-            nouveau
-            arrivant dans l'entreprise.
+            nouveaux
+            arrivants dans l'entreprise.
           </p>
           <p>
             Il contient des informations en lien avec le service informatique, plusieurs procédure pour les outils
             basique
-            de l'entreprise ainsi que quelque conseil d'utilisation des outils informatique.
+            de l'entreprise ainsi que quelque conseils d'utilisation des outils informatique.
           </p>
         </div>
       </div>

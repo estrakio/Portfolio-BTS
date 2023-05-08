@@ -40,7 +40,7 @@
         </p>
 
         <p>
-          l'entreprise fonctionne principalement avec 3 logiciels dont SAP (son ERP) qui est le coeur de l'entreprise,
+          L'entreprise fonctionne principalement avec 3 logiciels dont SAP (son ERP) qui est le cœur de l'entreprise,
         </p>
         <p>
           Logys qui s'occupe de la logistique et laBase de la gestion des ingrédients et des préparation.
@@ -74,32 +74,32 @@
 
     <div class=" text_couleur_bleu bordure_g_orange has-animation animation-ltr">
       <p>
-        Au cours des 2 années de mon BTS, j'ai eu l'occasion d'éffectuer plusieurs sortes de missions en entreprise :
+        Au cours des 2 années de mon BTS, j'ai eu l'occasion d'effectuer plusieurs sortes de missions en entreprise :
       </p>
       <p>
-        En premier plan, j'ai comme mission de résoudre les problèmes des utilisateurs de l'entreprise liée aux
+        En premier plan, j'ai eu comme mission de résoudre les problèmes des utilisateurs de l'entreprise liée aux
         différents logiciels.
         Pour ce faire, nous utilisons le système de ticketing de GLPI.
       </p>
 
       <p>
-        Le système de ticketing n'ayant été mis en place qu'un an avant mon arrivée, l'on ma demandé de modifier le
-        pattern d'envoi de mails afin qu'ils sois plus visuel.
+        Le système de ticketing n'ayant été mis en place qu'un an avant mon arrivée, on ma demandé de modifier le
+        pattern d'envoi de mails afin qu'ils soit plus visuel.
         <br>
-        Toujours dans l'objectif de familiarisé les utilisateurs, j'ai entièrement réecrit le livret d'accueil
-        informatique qui contient toutes sortes d'informations sur les différents outils de base d'un utilisateur ainsi
-        que quelque procédure basique.
+        Toujours dans l'objectif de familiariser les utilisateurs, j'ai entièrement réecrit le livret d'accueil
+        informatique qui contient toutes sortes d'informations sur les différents outils orientés utilisateur ainsi
+        que quelques procédures basiques.
       </p>
 
       <p>
-        En second plan, l'on ma affecté au développement de plusieurs projets. J'ai d'abord développé deux programme en
-        ABAP (Langage d'SAP),
+        En second plan, on m'a affecté au développement de plusieurs projets. J'ai d'abord développé deux programmes en
+        ABAP (Langage de SAP),
         <br>
         le premier (<b>ZSD_JFA_LPR</b>) permettent de générer chaque début de semaine un fichier contenant plusieurs
         informations sur toutes les palettes appartenant à la société LPR envoyé par ma société.
-        Ce fichier, envoyé par mail permet à LPR de savoir quelles palettes sont à récupérer et à quel endroit.
+        Ce fichier, envoyé par mail permet à LPR, permet de savoir quelles palettes sont à récupérer et à quel endroit.
         <br>
-        Le second (<b>ZPP_JFA_GET_LSDH_OF</b>) est la pour récupérer et préparé des données pour un autre programme en
+        Le second (<b>ZPP_JFA_GET_LSDH_OF</b>) est la pour récupérer et préparer des données pour un autre programme écrit en
         ABAP.
         <br>
       </p>
@@ -112,7 +112,7 @@
       </p>
 
       <p>
-        Actuellement, je travail sur un projet de développement d'une application web en PHP permettant la création de plan d'action au niveau Groupe (LSDH).
+        Actuellement (mai 2023), je travaille sur un projet de développement d'une application web en PHP permettant la création de plan d'action au niveau Groupe (LSDH).
       </p>
     </div>
 

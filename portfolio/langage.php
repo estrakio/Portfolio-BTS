@@ -44,7 +44,7 @@
         <br>
         <br>
         <div class="text_couleur_bleu_fonce_clair">
-          j'ai principalement utilisé ce langage sur le projet <B>"Boutique points jaunes"</B> et également sur le projet <B>"Vroooom"</B>.
+          J'ai principalement utilisé ce langage sur le projet <B>"Boutique points jaunes"</B> et également sur le projet <B>"Vroooom"</B>.
         </div>
       </div>
       <br>
@@ -69,9 +69,9 @@
         <br>
         <br>
         <div class="text_couleur_bleu_fonce_clair">
-          j'ai exclusivement utilisé ce langage en entreprise ou SAP y est utilisé.
+          J'ai exclusivement utilisé ce langage en entreprise qui utilise SAP.
           <br>
-          je l'ai notamment utilisé pour créer le programme <B>"ZSD_JFA_LPR"</B> ainsi que <B>"ZPP_JFA_GET_LSDH_OF"</B>.
+          Je l'ai notamment utilisé pour créer le programme <B>"ZSD_JFA_LPR"</B> ainsi que <B>"ZPP_JFA_GET_LSDH_OF"</B>.
         </div>
       </div>
       <br>
@@ -88,15 +88,15 @@
     <div id="flush-collapseCinq" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
       <br>
       <div class="accordion-body fond_menu coin_rond text-center">
-      Java est un langage de programmation orienté objet populaire et polyvalent,
+      Java est un langage de programmation orienté objet populaire et polyvalent.
       <br>
       Il est utilisé pour développer des applications pour différents types de systèmes d'exploitation et de plates-formes
       <br>
         <br>
         <div class="text_couleur_bleu_fonce_clair">
-          j'ai exclusivement utilisé ce langage en centre de formation.
+          J'ai exclusivement utilisé ce langage en centre de formation.
           <br>
-          je l'ai utilisé pour créer les applications mobiles des projets <B>"Vroooom"</B> et <B>"Le miel et les abeilles"</B>.
+          Je l'ai utilisé pour créer les applications mobiles des projets <B>"Vroooom"</B> et <B>"Le miel et les abeilles"</B>.
         </div>
       </div>
       <br>
@@ -119,9 +119,9 @@
         <br>
         <br>
         <div class="text_couleur_bleu_fonce_clair">
-          j'ai exclusivement utilisé ce langage en centre de formation.
+          J'ai exclusivement utilisé ce langage en centre de formation.
           <br>
-          je l'ai utilisé pour créer divers petit projets comme un démineur ou un sudoku.
+          Je l'ai utilisé pour créer divers petit projets comme un démineur ou un sudoku.
         </div>
       </div>
       <br>
@@ -146,7 +146,7 @@
         <div class="text_couleur_bleu_fonce_clair">
           C'est le système de gestion de base de données que j'ai le plus utilisé durant mon apprentissage.
           <br>
-          Il est présent sur tous les projets que j'ai réalisé.
+          Il est présent sur tous les projets que j'ai réalisés.
         </div>
       </div>
       <br>
@@ -164,7 +164,7 @@
     <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body fond_menu coin_rond text-center">
       JavaScript est un langage de programmation de scripts utilisé principalement pour la création de sites web interactifs et dynamiques.
-      Il est interprété côté client, ce qui signifie qu'il s'exécute directement dans le navigateur web de l'utilisateur final.
+      Il est exécuté côté client, ce qui signifie qu'il s'exécute directement dans le navigateur web de l'utilisateur final.
       <br>
       <br>
       <div class="text_couleur_bleu_fonce_clair">

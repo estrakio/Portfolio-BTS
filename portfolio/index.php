@@ -51,6 +51,10 @@ const INDEX_LOADED = 1;
             if(!file_exists($file))
                 $file ='accueil.php';
 
+            if($file == "index.php") {
+                header('Location: index.php');
+                die();
+            }
 
             require $file;
 

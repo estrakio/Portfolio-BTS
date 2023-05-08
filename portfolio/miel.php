@@ -30,7 +30,7 @@
       </div>
       <div class="row body_css padding_content">
         <p class="text_couleur_bleu">
-          Projet Réalisé en cours de formation à l'école ORT. Le projet devait contenir deux Grande parti.
+          Projet Réalisé en cours de formation à l'école ORT. Le projet devait contenir deux Grandes parties.
         </p>
         <div class="container">
           <div class="row">
@@ -41,12 +41,12 @@
               <p class="text_couleur_bleu">
                 Création d'un site web pour une école qui propose une vente de miels pour financer un voyage scolaire.
                 <br>
-                Le site ce devait d'être simple et intuitif pour les utilisateurs car il représente la vitrine des
+                Le site se devait d'être simple et intuitif pour les utilisateurs car il représente la vitrine des
                 produits mis en vente par l'école.
               </p>
               <p>
                 Il devait également comporter une partie administration pour permettre à l'école de gérer les produits
-                vendu par les élèves et lui permetre de cloturer les ventes.
+                vendus par les élèves et lui permetre de clôturer les ventes.
               </p>
             </div>
             <div class="col-6 bordure_g_orange">
@@ -62,8 +62,8 @@
                 pouvoir passer des commandes.
               </p>
               <p>
-                L'application devait également permetre aux élèves de voir l'historique de leur commande. et de les
-                modifié si besoin.
+                L'application devait également permetre aux élèves de voir l'historique de leurs commandes. et de les
+                modifier si besoin.
               </p>
 
             </div>

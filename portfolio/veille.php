@@ -20,16 +20,16 @@
         prendre beaucoup de temps. C’est pour cela qu’il faut savoir organiser sa veille technologique pour être
         toujours au courant sans perdre trop de temps.
       </p>
-    </div>
+    </div>²
 
     <div>
       <h2 class="text_couleur_bleu_fonce padding_title">
-        <b class="first_letter_orange">Q</b>u est ce qu'une veille technologique ?
+        <b class="first_letter_orange">Q</b>u' est-ce qu'une veille technologique ?
       </h2>
       <div class="row padding_content ">
         <div class="bordure_g_orange has-animation animation-ltr">
           <p>
-            La veille technologique est une activité qui met en oeuvre des techniques d'acquisition, de stockage et
+            La veille technologique est une activité qui met en œuvre des techniques d'acquisition, de stockage et
             d'analyse d'informations, concernant un produit ou un procédé, sur l’état de l'art et l’évolution de son
             environnement scientifique, technique, industriel ou commercial, afin de collecter, organiser, puis analyser
             et diffuser les informations pertinentes qui vont permettre d'anticiper les évolutions, et qui vont
@@ -50,7 +50,7 @@
               Malgré la pléthore d’informations disponibles sur le web, il n’est pas toujours facile de trouver les bon
               outils pour réaliser sa veille.
               <br>
-              Pour ma part j'utilise principalement youtube ou je suis différents créateur de contenu en lien avec mon
+              Pour ma part j'utilise principalement Youtube où je suis différents créateurs de contenu en lien avec mon
               métier.
               <br>
               Mon utilisation de ce média dépend de ce que je recherche selon mes besoins du moment ou plus

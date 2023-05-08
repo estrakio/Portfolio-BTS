@@ -34,12 +34,12 @@
     <div class="row padding_content ">
       <div class="bordure_g_orange has-animation animation-ltr">
         <p>
-        Actuellement étudiant en apprentissage dans l'entreprise Jus de fruits d'alsace à Sarre-Union ainsi qu'a l'école ORT à Strasbourg.
+        Actuellement étudiant en apprentissage dans l'entreprise Jus de fruits d'Alsace à Sarre-Union ainsi qu'à l'école ORT à Strasbourg.
         </p>
         <p>
-        Ce métier est pour moi une reconversion ainsi qu'une réel passion. J'ai avant cette formation était pendant 10 ans dans le monde de la restauration.
+        Ce métier est pour moi une reconversion ainsi qu'une réelle passion. Avant cette formationpe, j'étais pendant 10 ans dans le monde de la restauration.
         Ce métier passionnant qu'est celui de cuisinier m'a permis de développer de nombreuses compétences ainsi qu'une certaine rigueur dans mon travail.
-        Cependant, je me suis rendu compte que ce métier ne correspondait plus à mes attentes professionnelles et personnel et je me suis donc tourner vers ma seconde passion de toujours, l'informatique.
+        Cependant, je me suis rendu compte que ce métier ne correspondait plus à mes attentes professionnelles et personnelle et je me suis donc tourné vers ma seconde passion de toujours, l'informatique.
         </p>
       </div>
     </div>
@@ -51,21 +51,21 @@
     <div class="row padding_content ">
       <div id="parcours" class="bordure_g_orange has-animation animation-ltr">
         <p>
-          - J'ai commencé mon parcours professionnel dans la restauration que j'ai poursuivit pendant 10 ans jusqu'a
+          - J'ai commencé mon parcours professionnel dans la restauration, ce que j'ai pratiqué pendant 10 ans, jusqu'à
           devenir
           chef de cuisine.
         </p>
 
         <p>
-          - En 2020 avec la crise du COVID-19, j'entame une première reflexion sur mon parcours professionnelle est
+          - En 2020, avec la crise de la COVID-19, j'entame une première réflexion sur mon parcours professionnel et
           envisage de me reconvertir vers l'informatique
-          qui à toujours été une passion pour moi.
-          Projet qui ne commencera réelement qu'en 2021 avec un stage dans la société Jus de Fruits d'alsace à
+          qui a toujours été une passion pour moi.
+          Projet qui ne commencera réelement qu'en 2021 avec un stage dans la société Jus de Fruits d'Alsace à
           Sarre-Union.
         </p>
 
         <p>
-          - Ce stage qui durera 1 semaine fut très instructif et me permis de me conforter dans ma reconversion.
+          - Ce stage qui durera 1 semaine fut très instructif et m'a permis de me conforter dans ma reconversion.
         </p>
 
         <p>
@@ -87,14 +87,13 @@
     <div class="row padding_content ">
       <div class="bordure_g_orange has-animation animation-ltr">
         <p>
-          Partant du postulat que l'informatique est un domaine qui évolue très rapidement et qui ce diversifie
-          énormement.
-          Je souhaite continuer mes études aussi loin que possible afin de pouvoir.
-          En souhaitant aller dans ce sens, et comme stipulé plus haut, je souhaite continuer mes études en
-          apprentissage au maximum de ce qu'il sera possible.
-          C'est pour cette raison qu'après mon Bachelor au CESI, j'ai d'ores et déjà contacter l'école Epitech à
+          Partant du postulat que l'informatique est un domaine qui évolue très rapidement et qui se diversifie
+          énormement,
+          je souhaite continuer mes études aussi loin que possible.
+
+          C'est pour cette raison qu'après mon Bachelor au CESI, j'ai d'ores et déjà contacté l'école Epitech à
           Strasbourg afin de pouvoir y continuer mon apprentissage avec pour but l'obtention
-          de leurse diplôme<a class="text_couleur_bleu_fonce"
+          du diplôme<a class="text_couleur_bleu_fonce"
             href="https://www.epitech.eu/fr/formations/msc-pro-epitech-technology/" target="_blank"> MSC PRO en
             alternance</a>.
         </p>

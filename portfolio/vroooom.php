@@ -30,7 +30,7 @@
       </div>
       <div class="row body_css padding_content">
         <p class="text_couleur_bleu">
-          Projet Réalisé en cours de formation à l'école ORT. Le projet devait contenir deux Grande parti.
+          Projet Réalisé en cours de formation à l'école ORT. Le projet devait contenir deux Grandes parties.
         </p>
         <div class="container">
           <div class="row">
@@ -39,14 +39,14 @@
                 <strong><b class="first_letter_orange">S</b>ITE WEB :</strong>
               </p>
               <p class="text_couleur_bleu">
-                Le site, accessible uniquement pour les personnes présentes dans la société sert à créer toute les
-                données liée à l'activité de l'entreprise.
+                Le site, accessible uniquement pour les personnes présentes dans la société, sert à créer toutes les
+                données liées à l'activité de l'entreprise.
               </p>
               <p class="text_couleur_bleu">
-                Il sert à la création des clients, véhicule, contrat et tout ce qui touche au experts.
+                Il sert à la création des clients, véhicules, contrats et tout ce qui touche au experts.
               </p>
               <p class="text_couleur_bleu">
-                Il permet également de consulté les expertises effectué sur les véhicule en fin de contrat envoyé depuis
+                Il permet également de consulté les expertises effectuées sur les véhicule en fin de contrat envoyé depuis
                 les applications mobiles.
               </p>
             </div>
@@ -55,20 +55,20 @@
                 <strong><b class="first_letter_orange">A</b>PPLICATION MOBILE :</strong>
               </p>
               <p class="text_couleur_bleu">
-                Utilisé par les experts mandaté par la société de leasing pour expertiser les véhicules en fin de
+                Utilisé par les experts mandatés par la société de leasing pour expertiser les véhicules en fin de
                 contrat.
 
               </p>
               <p>
                 L'application demande, après la connexion de l'utilisateur, la plaque d'immatriculation du véhicule a
-                expertiser. Après vérification efectué,
-                <br>l'application va ouvrir un menu qui regroupera les différentes expertise effectué sur le véhicule.
-                <br>l'expert devra alors créer une nouvelle expertise à chaque défaut du véhicule remplir des données et
+                expertiser. Après vérification efectuée,
+                <br>l'application va ouvrir un menu qui regroupera les différentes expertises effectuées sur le véhicule.
+                <br>L'expert devra alors créer une nouvelle expertise à chaque défaut du véhicule, remplir des données et
                 prendre une photo.
               </p>
               <p>
-                L'application devait également permetre aux élèves de voir l'historique de leur commande. et de les
-                modifié si besoin.
+                L'application devait également permetre aux élèves de voir l'historique de leur commande, et de les
+                modifier si besoin.
               </p>
 
             </div>
