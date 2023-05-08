@@ -2,7 +2,7 @@
   /* height : 30vh; */
   padding-left: 30px;
   /* border-left: 2px solid #f75b00; */
-  text-color : #f75b00;
+  color : #f75b00;
   padding-top: 10px;
   /* background : #4d4f68; */
 
@@ -12,14 +12,14 @@
   /* height : 30vh; */
   padding-right: 30px;
   /* border-right: 4px solid #f75b00; */
-  text-color : #f75b00;
+  color : #f75b00;
   padding-top: 10px;
   /* background : #4d4f68; */
 
 }
 
 .section{
-  height: 29,5vh;
+  height: 29.5vh;
   margin : 0;
   /* padding-top: 30px; */
   /* border-top: 1px solid #000A54; */
@@ -34,7 +34,7 @@
   height: auto;
 }
 
-.test{
+.test {
   /* background: #23b971; */
 }
 
