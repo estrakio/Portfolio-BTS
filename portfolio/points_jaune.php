@@ -120,7 +120,7 @@
       <section class="section has-animation animation-ltr">
         <div class="row">
           <div class="col-5 ">
-            <img src="./images/miel/accueil_miel.png" alt="photo" class="img-fluid">
+            <img src="./images/boutique/accueil.png" alt="photo" class="img-fluid">
           </div>
           <div class="col-7 texte_gauche ">
             <h4 class="text_couleur_bleu_fonce_clair" style="padding-bottom:2vh;">Page d'accueil</h4>
@@ -146,7 +146,7 @@
             </p>
           </div>
           <div class="col-5">
-            <img src="./images/miel/menu_miel.png" alt="photo" class="img-fluid">
+            <img src="./images/boutique/caisse.png" alt="photo" class="img-fluid">
           </div>
         </div>
       </section>
@@ -154,7 +154,7 @@
       <section class="section has-animation animation-ltr">
         <div class="row">
           <div class="col-5 ">
-            <img src="./images/miel/page_apiculteur.png" alt="photo" class="img-fluid">
+            <img src="./images/boutique/gestion_produit.png" alt="photo" class="img-fluid">
           </div>
           <div class="col-7 texte_gauche ">
             <h4 class="text_couleur_bleu_fonce_clair" style="padding-bottom:2vh;">Page de gestion produits</h4>
@@ -180,7 +180,7 @@
               rattraper un ajout involontaire.</p>
           </div>
           <div class="col-5">
-            <img src="./images/miel/connexion_gestion.png" alt="photo" class="img-fluid">
+            <img src="./images/boutique/ajout_points.png" alt="photo" class="img-fluid">
           </div>
         </div>
       </section>
@@ -188,7 +188,7 @@
       <section class="section has-animation animation-ltr">
         <div class="row">
           <div class="col-5 ">
-            <img src="./images/miel/gestion.png" alt="photo" class="img-fluid">
+            <img src="./images/boutique/liste_salarie.png" alt="photo" class="img-fluid">
           </div>
           <div class="col-7 texte_gauche ">
             <h4 class="text_couleur_bleu_fonce_clair" style="padding-bottom:2vh;">Liste des salariés</h4>
