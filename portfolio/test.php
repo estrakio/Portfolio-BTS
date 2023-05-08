@@ -1,3 +1,4 @@
+<?php if(!defined('INDEX_LOADED') || INDEX_LOADED != 1) header('Location: index.php'); ?>
 <link rel="stylesheet" type="text/css" href="../css/projet.css">
 
 <!-- Sections qui contiennent une grande photo a gauche et du texte a droite -->

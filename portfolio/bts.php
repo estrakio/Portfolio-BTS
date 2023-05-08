@@ -1,3 +1,4 @@
+<?php if(!defined('INDEX_LOADED') || INDEX_LOADED != 1) header('Location: index.php'); ?>
 <div class="container">
 
   <h2 class="text-center text_couleur_bleu_fonce titre_bts">
@@ -111,7 +112,7 @@
       </p>
 
       <p>
-        Actuellement, je travail sur un projet de développement d'une application web en PHP permettant la création de plan d'action au niveau Groupe (LSDH). 
+        Actuellement, je travail sur un projet de développement d'une application web en PHP permettant la création de plan d'action au niveau Groupe (LSDH).
       </p>
     </div>
 

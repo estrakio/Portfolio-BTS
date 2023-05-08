@@ -1,3 +1,4 @@
+<?php if(!defined('INDEX_LOADED') || INDEX_LOADED != 1) header('Location: index.php'); ?>
 <!-- Affichage du message de bienvenue ainsi que d'une image-->
 <div class="row text_couleur_bleu">
   <!-- A propos de moi Les bases-->
@@ -38,7 +39,7 @@
         <p>
         Ce métier est pour moi une reconversion ainsi qu'une réel passion. J'ai avant cette formation était pendant 10 ans dans le monde de la restauration.
         Ce métier passionnant qu'est celui de cuisinier m'a permis de développer de nombreuses compétences ainsi qu'une certaine rigueur dans mon travail.
-        Cependant, je me suis rendu compte que ce métier ne correspondait plus à mes attentes professionnelles et personnel et je me suis donc tourner vers ma seconde passion de toujours, l'informatique. 
+        Cependant, je me suis rendu compte que ce métier ne correspondait plus à mes attentes professionnelles et personnel et je me suis donc tourner vers ma seconde passion de toujours, l'informatique.
         </p>
       </div>
     </div>

@@ -1,3 +1,4 @@
+<?php if(!defined('INDEX_LOADED') || INDEX_LOADED != 1) header('Location: index.php'); ?>
 <link rel="stylesheet" type="text/css" href="../css/documentation.css">
 
 <!-- Affichage du message de bienvenue ainsi que d'une image-->

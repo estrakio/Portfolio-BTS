@@ -1,3 +1,4 @@
+<?php if(!defined('INDEX_LOADED') || INDEX_LOADED != 1) header('Location: index.php'); ?>
 <link rel="stylesheet" type="text/css" href="../css/projet.css">
 
 <div class="container">
@@ -162,7 +163,7 @@
     </section>
 
   </div>
-<!-- 
+<!--
   <div style="padding-bottom:8vh;"></div>
   <h2 class="text_couleur_bleu_fonce padding_title text-center" style="padding-bottom:8vh;">
     <b class="first_letter_orange">C</b>ourte vidéo de l'application mobile
