@@ -22,29 +22,6 @@
     </div>
   </div>
 
-  <!-- CV -->
-  <section>
-    <h2 class="text_couleur_bleu_fonce padding_title">
-      <b class="first_letter_orange">C</b>uriculum Vitæ :
-    </h2>
-    <div class="row padding_content ">
-      <div class="col-6">
-        <div class="bordure_g_orange has-animation animation-ltr" style="padding-left:10px;">
-          <p>
-            Curiculum vitæ mis à jour en mars 2023.
-          </p>
-        </div>
-      </div>
-      <div class="col-6 " style="padding-left:6vh; width:min(2vw, 5vw);">
-        <div class="img_dl" >
-          <a href=".\download\CV_walter_karl.pdf" download>
-            <img class="img_size" src="images/cv.png" alt="">
-          </a>
-        </div>
-      </div>
-    </div>
-  </section>
-
   <!-- Livret D'informatique de l'entreprise. -->
   <section>
     <h2 class="text_couleur_bleu_fonce padding_title">
